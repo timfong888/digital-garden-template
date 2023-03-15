@@ -21,7 +21,7 @@ Just list them, deal with order later, deal with Scripture later:
 7. [ ] [[Take out the trash\|Take out the trash]]
 8. [ ] Hope for the future
 9. [ ] Cast vision
-10. [ ] [[Tomorrow we die\|Tomorrow we die]]
+10. [ ] [[Remember That You Will Die\|Remember That You Will Die]]
 11. [ ] We have enough today
 12. [ ] Plant a seed
 13. [ ] Cleaving from mother and father
