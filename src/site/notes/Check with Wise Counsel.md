@@ -3,10 +3,11 @@
 ---
 
 
-
 > [!NOTE] Proverbs 11:14
 > Where there is no guidance the people fall,
 > But in abundance of counselors there is victory.
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678911732/obsidian/image_iimm3k.png)
 
 In this habit agree to schedule time with a wide counselor to hang out and talk about what's going on in your marriage. 
 
