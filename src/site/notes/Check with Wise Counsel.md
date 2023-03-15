@@ -20,6 +20,7 @@ Spend this 15-minute or more ensuring you both have a wise counselor and you hav
 
 More often a wise set of external eyes the better. 
 
+
 ### why
 When you hit a problem you need someone both sides trust. 
 
