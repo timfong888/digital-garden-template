@@ -7,6 +7,8 @@
 - [ ] Find podcasters and authors and Facebook groups
 - [ ] Create an affiliate program for people
 
+<div class="convertful-202420"></div>
+
 ### What are the 40 Habits?
 Just list them, deal with order later, deal with Scripture later:
 
@@ -44,4 +46,5 @@ Just list them, deal with order later, deal with Scripture later:
 32. [ ] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
 34. [ ] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
-35. [ ] 
+
+
