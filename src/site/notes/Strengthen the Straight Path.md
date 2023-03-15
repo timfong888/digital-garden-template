@@ -11,3 +11,4 @@
 > Do not turn to the right or the left; keep your foot from evil.
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/c_scale,w_1080/v1678850553/obsidian/image_b2d48h.png)
+w_1080
