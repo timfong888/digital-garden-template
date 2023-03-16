@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hope-for-the-future/","title":"Page Title","created":"","updated":""}
+{"dg-publish":true,"permalink":"/hope-for-the-future/","title":"Hope for the future","created":"","updated":""}
 ---
 
 
@@ -8,3 +8,4 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png)
 
+<div class="convertful-202420"></div>
