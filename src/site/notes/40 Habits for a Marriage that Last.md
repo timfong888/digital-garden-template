@@ -21,7 +21,7 @@ Just list them, deal with order later, deal with Scripture later:
 5. [ ] NVC needs request
 6. [ ] [[Exchange Respect and Love\|Exchange Respect and Love]]
 7. [ ] [[Take out the trash\|Take out the trash]]
-8. [ ] Hope for the future
+8. [ ] [[Hope for the future\|Hope for the future]]
 9. [ ] Cast vision
 10. [ ] [[Remember That You Will Die\|Remember That You Will Die]]
 11. [ ] We have enough today
