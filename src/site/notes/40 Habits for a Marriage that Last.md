@@ -8,8 +8,6 @@
 - [ ] Create an affiliate program for people
 
 <div class="convertful-202420"></div>
-<div class="convertful-202420"></div>
-<div class="convertful-202420"></div>
 
 ### What are the 40 Habits?
 Just list them, deal with order later, deal with Scripture later:
