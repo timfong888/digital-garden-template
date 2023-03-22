@@ -24,7 +24,7 @@ That hope can either be a common thread in your journey, or it can be a source o
 
 Hope can be a wellspring of life when you invest in it with a regular habit.
 
-Or it can become a missing piece during a time of strugle.
+Don't let that well go dry.  You may need it when you're in a drought.
 
 ## what
 When you read this Scripture, where does your mind go when it comes to hope?
