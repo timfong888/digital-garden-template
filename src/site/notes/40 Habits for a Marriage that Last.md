@@ -2,17 +2,11 @@
 {"dg-publish":true,"permalink":"/40-habits-for-a-marriage-that-last/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
-- [ ] Come up with a Podcast and just start talking about each item so that the podcast is complete
-- [ ] Recycle and go over each item and take questions
-- [ ] Find podcasters and authors and Facebook groups
-- [ ] Create an affiliate program for people
-
 <div class="convertful-202420"></div>
 <div class="convertful-202420"></div>
 <div class="convertful-202420"></div>
 
 ### What are the 40 Habits?
-Just list them, deal with order later, deal with Scripture later:
 
 1. [ ] Repent
 2. [ ] Remember a positive past
@@ -21,7 +15,7 @@ Just list them, deal with order later, deal with Scripture later:
 5. [ ] NVC needs request
 6. [ ] [[Exchange Respect and Love\|Exchange Respect and Love]]
 7. [ ] [[Take out the trash\|Take out the trash]]
-8. [ ] [[Hope for the future\|Hope for the future]]
+8. [x] [[Hope for the Future\|Hope for the Future]]
 9. [ ] Cast vision
 10. [ ] [[Remember That You Will Die\|Remember That You Will Die]]
 11. [ ] We have enough today
