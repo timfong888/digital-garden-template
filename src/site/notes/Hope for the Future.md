@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/hope-for-the-future/","title":"Hope for the future","created":"","updated":""}
 ---
 
+<!-- HTML Meta Tags --> <title>Hope for the Future</title> <meta name="description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/hope-for-the-future/"> <meta property="og:type" content="website"> <meta property="og:title" content="Hope for the Future"> <meta property="og:description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/hope-for-the-future/"> <meta name="twitter:title" content="Hope for the Future"> <meta name="twitter:description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png"> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
 > [!NOTE] Romans 15:13
 > "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
@@ -18,7 +19,7 @@ If your marriage is on an upward trajectory, perhaps its during the honeymoon se
 It's worth replaying those and sharing those because this becomes the well of hope that you can dig from if things get bumpy.
 
 But...when things are going well, it's often a good time to take stock in where do you place your hope?
-<!--- convertful here -->
+<!--- convertful here --->
 <div class="convertful-202420"></div>
 
 Typically, hope is an anticipation of things to get better.  It is the fulfillment of plans you have together.
@@ -47,9 +48,8 @@ If you haven't been close to God throughout this process and you are seeking him
 I do hope you choose God in this.
 
 But it also should remind those of you who may feel your marriage is fine to establish this foundation now through this habit of hope.
+ 
 
-  
-<!-- HTML Meta Tags --> <title>Hope for the Future</title> <meta name="description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/hope-for-the-future/"> <meta property="og:type" content="website"> <meta property="og:title" content="Hope for the Future"> <meta property="og:description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/hope-for-the-future/"> <meta name="twitter:title" content="Hope for the Future"> <meta name="twitter:description" content="This habit of discussing hope and where it comes from will build a powerful well you can draw upon when things get tough. And it may be that moment things turn around if you are already facing challenges."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png"> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
 - [x] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
 - [ ] Publish on Twitter
