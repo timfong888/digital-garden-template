@@ -78,10 +78,12 @@ But it also should remind those of you who may feel your marriage is fine to est
 - How is this reflected in your thought life, your priorities, your actions?
 
 ## listen
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/hope-for-your-future" src="https://play.pod.co/the-marriage-habit/hope-for-your-future" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
+
 
 
 - [x] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
-- [ ] Publish on Twitter
+- [x] Publish on Twitter
 - [ ] Create and link the podcast
 
 
