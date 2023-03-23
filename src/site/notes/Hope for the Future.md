@@ -9,8 +9,6 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1678914034/obsidian/image_hg9ayg.png)
 
-<div class="convertful-202420"></div>
-
 ## why
 No body will argue *against* the power of having hope.
 
