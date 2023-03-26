@@ -6,7 +6,8 @@
 > [!NOTE] James‬ ‭2‬:‭15‬-‭16‬ ‭ESV‬‬
 > “If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that?”
 
-![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679872839/obsidian/image_soscq0.png)
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679874172/obsidian/image_tptjfn.png)
+
 
 ### Introduction
 One of the best ways to undermine your own marriage is to miscommunicate your needs. 
