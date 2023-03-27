@@ -12,21 +12,23 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679935532/obsidian/image_knfuwt.png)
 
-Nobody enters a marriage wanting either themselves or their spouse to stray.
+Nobody enters a marriage wanting it to end in betrayal.  
 
-Very few enter a marriage **expecting** any kind of straying off of the virtuous path.
+No one stands at the altar and thinks to themselves, "I can't wait to stray from my marriage."
 
-But we know how common it can be.
+I'm not just referring to out-and-out sexual affairs.
 
-I'm not just referring to affairs.
+Even if I were, remaining "faithful" is uncommon these days.  Why?
 
-A sense of "betrayal" can extend way beyond sexual dalliance.  
+"Betrayal" can extend way beyond explicit sexual encounters outside of the marriage.
 
-That betray breaks both explicit and implicit vows made between two people.
+However, if the boundaries and rules of the game aren't well-defined, someone is going to see "foul" where the other person see "score."
 
-While today's verse from Proverbs 4:25-27 references choices between wickedness and and righteousness, it can be applied within the marriage in a way to strengthen it.
+Imagine how much hurt can come from this.
 
-Or at minimum, reduce surprises, conflicts, and disappointment.
+Even a step or a turn in the wrong direction can lead to one astray.
+
+Read on to learn how to strengthen your marriage's straight path, reduce surprises, conflicts, and disappointment.
 
 > [!WARNING] Unlock the rest of the article
 > If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course How to Build a Marriage Habit.
@@ -36,6 +38,9 @@ Or at minimum, reduce surprises, conflicts, and disappointment.
 
 
 ### Sharing the Guard Your Heart Compass
+
+While today's verse from Proverbs 4:25-27 references choices between wickedness and and righteousness, it can be applied within the marriage in a way to strengthen it.
+
 Earlier in the passage, the author writes: "Above all else, guard your heart,  
     for everything you do flows from it." (Proverbs 4:23)
 
@@ -116,16 +121,18 @@ If a woman feels that the man's lack of attention opens up her to risk, without 
 In both cases, the attention should focus on [[Walking and Talking Side by Side\|Walking and Talking Side by Side]]: how can the issue be solved together.
 
 ### Listen
-
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/strengthen-your-straight-path" src="https://play.pod.co/the-marriage-habit/strengthen-your-straight-path" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 ### Ask
+Here's the Twitter thread where you can ask clarifying questions while spreading the word of the Power of Marriage Habits!
 
+Once we open up the forums, you'll be able to fill out a simple form and ask questions privately.
 
 - [x] Publish Draft
-- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
-- [ ] Create WebP Image
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Create WebP Image
 - [ ] Publish on Twitter
-- [ ] Add form lock
+- [x] Add form lock
 - [ ] Create podcast
 - [ ] Embed podcast
 - [ ] Create or add to publishing partnership
