@@ -10,15 +10,23 @@
 
 
 ### Introduction
-One of the best ways to undermine your own marriage is to miscommunicate your needs. 
+Want to build up grievances and resentment in your marriage?  Do this one thing all the time:
 
-What are common forms of miscommunication?
+**Miscommunicate your needs.**
 
-Not saying anything about them. 
+While no one willingly does so, the patterns of miscommunication as easy to fall into.
 
-Being unclear or indirect. 
+So we *think* we have shared what our needs are.  In reality, we have simply done so in a way where our needs don't get met.
 
-Speaking about your need in the form of a criticism or complaint. 
+Resulting in anger and bitterness.  Rinse and repeat.
+
+What are some common forms of miscommunication?
+
+- Not saying anything about them. 
+
+- Being unclear or indirect. 
+
+- Speaking about your need in the form of a criticism or complaint. 
 
 When you use one of the above, you can almost guarantee your need won't be met. 
 
@@ -116,10 +124,10 @@ If this gets out of control or bigger, reduce the scope and reach agreement: can
 ### Ask
 Need help implementing this 15-minute habit?
 
-Join the forum and ask a question and I will answer it in a podcast!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to build up grievances and resentment in your marriage? Do this one thing all the time:</p>&mdash; TheMarriageHabit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1640145262902673408?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - [x] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
-- [ ] Publish on Twitter
+- [x] Publish on Twitter
 - [ ] Add form lock
 - [ ] Create podcast
 - [ ] Embed podcast
