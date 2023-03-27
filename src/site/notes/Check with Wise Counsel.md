@@ -34,5 +34,8 @@ Imagine scrambling to find someone after a major crisis where emotions are runni
 
 Tough. 
 
+
+### Want the Rest of the Marriage Habits?
+Find our list here:  [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
   
 <!-- HTML Meta Tags --> <title>Check with Wise Counsel</title> <meta name="description" content="Why you should always have a regular check in with wise counsel "> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/check-with-wise-counsel/"> <meta property="og:type" content="website"> <meta property="og:title" content="Check with Wise Counsel"> <meta property="og:description" content="Why you should always have a regular check in with wise counsel "> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/c_scale,w_1080/v1678911732/obsidian/image_iimm3k.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/check-with-wise-counsel/"> <meta name="twitter:title" content="Check with Wise Counsel"> <meta name="twitter:description" content="Why you should always have a regular check in with wise counsel "> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/c_scale,w_1080/v1678911732/obsidian/image_iimm3k.png"> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
