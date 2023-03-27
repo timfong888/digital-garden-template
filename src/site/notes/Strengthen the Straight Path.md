@@ -16,11 +16,11 @@ Nobody enters a marriage wanting it to end in betrayal.
 
 No one stands at the altar and thinks to themselves, "I can't wait to stray from my marriage."
 
-I'm not just referring to out-and-out sexual affairs.
+Yet, infidelity is more common than we would expect.
 
-Even if I were, remaining "faithful" is uncommon these days.  Why?
+Why?
 
-"Betrayal" can extend way beyond explicit sexual encounters outside of the marriage.
+The numbers grow when "betrayal" extends beyond explicit sexual encounters outside of the marriage.
 
 However, if the boundaries and rules of the game aren't well-defined, someone is going to see "foul" where the other person see "score."
 
@@ -125,16 +125,17 @@ In both cases, the attention should focus on [[Walking and Talking Side by Side\
 
 ### Ask
 Here's the Twitter thread where you can ask clarifying questions while spreading the word of the Power of Marriage Habits!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nobody enters a marriage wanting it to end in betrayal. <br><br>No one stands at the altar and thinks to themselves, &quot;I can&#39;t wait to stray from my marriage.&quot;</p>&mdash; TheMarriageHabit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1640402350056800257?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Once we open up the forums, you'll be able to fill out a simple form and ask questions privately.
 
 - [x] Publish Draft
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Create WebP Image
-- [ ] Publish on Twitter
+- [x] Publish on Twitter
 - [x] Add form lock
-- [ ] Create podcast
-- [ ] Embed podcast
+- [x] Create podcast
+- [x] Embed podcast
 - [ ] Create or add to publishing partnership
 
 
