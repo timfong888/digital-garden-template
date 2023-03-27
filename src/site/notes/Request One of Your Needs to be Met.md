@@ -8,7 +8,6 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679874172/obsidian/image_tptjfn.png)
 
-
 ### Introduction
 Want to build up grievances and resentment in your marriage?  Do this one thing all the time:
 
@@ -22,17 +21,15 @@ Resulting in anger and bitterness.  Rinse and repeat.
 
 What are some common forms of miscommunication?
 
-- Not saying anything about them. 
+- Not saying anything about them
+- Being unclear or indirect
+- Speaking about your need in the form of a criticism or complaint
 
-- Being unclear or indirect. 
-
-- Speaking about your need in the form of a criticism or complaint. 
-
-When you use one of the above, you can almost guarantee your need won't be met. 
+When you use one of the above, you can almost **guarantee** your need won't be met. 
 
 In turn, you can earn the right to resent your spouse.
 
-I saw both sides of it. 
+I have seen both sides of it. 
 
 My wife would not communicate a need till, out of frustration, would explode in anger, tearfully telling me I haven't cared about her for years because I hadn't dealt with this issue. 
 
@@ -68,7 +65,7 @@ Neither I nor my wife knew how to make requests.
 
 Making good requests is difficult because they are often framed in **judgment and criticism**. Even if they are expressed neutrally, they can be interpreted that way. 
 
-We all know we want to express our needs.
+We all want to express our needs.
 
 But it comes out wrong most of the time.
 
@@ -126,19 +123,16 @@ If this gets out of control or bigger, reduce the scope and reach agreement: can
 ### Listen
 
 ### Ask
-Need help implementing this 15-minute habit?
+Need help implementing this 15-minute habit?  Join the conversation on Twitter.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to build up grievances and resentment in your marriage? Do this one thing all the time:</p>&mdash; TheMarriageHabit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1640145262902673408?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- [x] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Publish on Twitter
-- [ ] Add form lock
+- [x] Add form lock
 - [ ] Create podcast
 - [ ] Embed podcast
 - [ ] Create or add to publishing partnership
-
-
+- [ ] Optimize for SEO
   
 <!-- HTML Meta Tags --> <head><title>Request One of Your Needs to be Met</title> <meta name="description" content="A common pitfall for marriages is letting needs continue unmet.  Find out in this devotional how to share these needs as part of a healthy marriage habit to reduce resentment and bitterness."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/request-one-of-your-needs-to-be-met/"> <meta property="og:type" content="website"> <meta property="og:title" content="Request One of Your Needs to be Met"> <meta property="og:description" content="A common pitfall for marriages is letting needs continue unmet.  Find out in this devotional how to share these needs as part of a healthy marriage habit to reduce resentment and bitterness.."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679874172/obsidian/image_tptjfn.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/request-one-of-your-needs-to-be-met/"> <meta name="twitter:title" content="Request One of Your Needs to be Met"> <meta name="twitter:description" content="A common pitfall for marriages is letting needs continue unmet.  Find out in this devotional how to share these needs as part of a healthy marriage habit to reduce resentment and bitterness."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679874172/obsidian/image_tptjfn.png"> <!-- Meta Tags Generated via https://www.opengraph.xyz --></head>
-
-
