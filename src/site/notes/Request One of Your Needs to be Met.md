@@ -38,9 +38,9 @@ Instead, she had an unmet and unspoken need.
 
 Similarly, a major financial disaster could have been averted if I made stronger and clearer requests around her adjusting her tone during crucial conversations. 
 
-Because I ended up just deferring to her perspective whenever she got angry, some very bad choices were made.  I needed a way to revisit again an unmet need around how I would like to be spoken to during crucial conversations. 
+Because I ended up just deferring to her perspective whenever she got angry, we made some very bad choices.  I needed a way to revisit again an unmet need around how I would like to be spoken to during crucial conversations. 
 
-I realized neither of us knew how to persistently ask for needs in a way that could be understood and received. 
+Neither of us knew how to persistently ask for needs in a way that could be understood and received. 
 
 From her end, the requests were unclear and never asked. 
 
@@ -48,21 +48,29 @@ From my side, I didn't know what to do when I would not see changes in response 
 
 Neither I nor my wife knew how to make requests. 
 
-How well are you making requests of each other in your marriage?
+==How well are you making requests of each other in your marriage?==
+
+### why this habit is crucial
 <!--- form here -->
 <div class="convertful-202420"></div>
 
-Making good requests is difficult because they are often framed in judgment and criticism. Even if they are expressed neutrally, they can be interpreted that way. 
+Making good requests is difficult because they are often framed in **judgment and criticism**. Even if they are expressed neutrally, they can be interpreted that way. 
 
-For this habit, think about a still unmet need and make the request. 
+We all know we want to express our needs.
 
-Make sure you can focus on the need. It cannot be about imposing a standard. 
+But it comes out wrong most of the time.
 
-It's based on a judgment-free truth. 
+So the unmet needs build-up resentment.
 
-This means exposing what is in your heart. 
+### what is the key principle
 
-In today's verse, it's easier to know that a hungry person needs food, and that a naked person needs clothes. 
+Expressing a need with a request needs to avoid judgment.
+
+Instead, it needs to ground the request in a judgment-free truth. 
+
+**This means exposing what is in your heart.** 
+
+In today's verse from James, it's easier to know that a hungry person needs food, and that a naked person needs clothes. 
 
 What goes on in your head is not the same as lacking food and clothes. 
 
@@ -72,17 +80,23 @@ They lack food and feel hungry.
 
 They lack clothes and feel cold and shame. 
 
-So can a request when you strip it down to the Need that is unmet. 
+But this doesn't change the intent behind the passage.  
 
-"I see you raise your voice at me when I am asking for help. As a result I feel alone and ashamed. I'd like calm, reasoned and focused attention to discuss the problem."
+James calls out the hypocrisy and callousness of seeing a genuine need and speaking over it rather than doing something.
 
-"I am still experiencing a lot of itchy eyes even after I see you made a good attempt to clean the rooms. As a result I still feel unhealthy and uncomfortable. I'd like us to come up with a new solution that fits within your financial concerns."
+It's easier to follow this, however, when you see a clear need, **without the judgment.**
+
+Build your request around a true, almost naked, Need: something missing and life-sustaining within yourself, not a failure in the other person.
+
+"I feel alone and ashamed. I'd like calm, reasoned and focused attention to discuss the problem."
+
+"I am still experiencing a lot of itchy eyes even after I see you made a good attempt to clean the rooms. (Need) As a result I still feel unhealthy and uncomfortable. (Request) I'd like us to come up with a new solution that fits within your financial concerns."
 
 If you have been harboring an unmet need and masking it with resentment, bring it up around a missing need. 
 
-Get at the core of your state: hungry and naked in what the need isn't met. 
+Get at the core of your state: hungry and naked in your unmet need.
 
-A hungry and naked person doesn't shame or blame the person when they reveal their state. 
+**A hungry and naked person doesn't shame or blame the person when they reveal their state.** 
 
 Do the same. 
 
@@ -104,7 +118,7 @@ Need help implementing this 15-minute habit?
 
 Join the forum and ask a question and I will answer it in a podcast!
 
-- [ ] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
+- [x] Check off from the [[40 Habits for a Marriage that Last\|40 Habits for a Marriage that Last]]
 - [ ] Publish on Twitter
 - [ ] Add form lock
 - [ ] Create podcast
