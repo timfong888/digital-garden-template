@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-simple-daily-habits-for-a-marriage-that-lasts/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
-<div class="convertful-202420"></div>
-
 ### Welcome
 
 ### Start Here
