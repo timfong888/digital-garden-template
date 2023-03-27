@@ -3,7 +3,6 @@
 ---
 
 <div class="convertful-202420"></div>
-<div class="convertful-202420"></div>
 
 ### Welcome
 
@@ -17,7 +16,8 @@
 > [!WARNING] Unlock the rest of the article
 > If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
 <div class="convertful-202420"></div>
-
+ <!--- form here use arrow to go down one line-->
+<div class="convertful-202420"></div>
 
 1. [ ] Repent
 2. [ ] Remember a positive past
@@ -43,7 +43,7 @@
 22. [ ] Fear release
 23. [ ] Parenting principle
 24. [ ] Physical intimacy
-25. [ ] Boundary conversation
+25. [ ] Hold a boundary conversation
 26. [ ] Connection rituals
 27. [ ] Love God
 28. [ ] Follow Jesus as Lord
