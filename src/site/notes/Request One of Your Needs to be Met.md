@@ -59,6 +59,10 @@ Neither I nor my wife knew how to make requests.
 ==How well are you making requests of each other in your marriage?==
 
 ### why this habit is crucial
+
+> [!FAQ] Want to read the rest?
+> Add your email to the form below and unlock the rest of this content
+
 <!--- form here -->
 <div class="convertful-202420"></div>
 
