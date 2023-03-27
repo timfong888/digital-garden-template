@@ -12,11 +12,14 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1679935532/obsidian/image_knfuwt.png)
 
+### Listen
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/strengthen-your-straight-path" src="https://play.pod.co/the-marriage-habit/strengthen-your-straight-path" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
+
 Nobody enters a marriage wanting it to end in betrayal.  
 
 No one stands at the altar and thinks to themselves, "I can't wait to stray from my marriage."
 
-Yet, infidelity is more common than we would expect.
+==Yet, infidelity is more common than we would expect.==
 
 Why?
 
@@ -120,9 +123,6 @@ If a woman feels that the man's lack of attention opens up her to risk, without 
 
 In both cases, the attention should focus on [[Walking and Talking Side by Side\|Walking and Talking Side by Side]]: how can the issue be solved together.
 
-### Listen
-<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/strengthen-your-straight-path" src="https://play.pod.co/the-marriage-habit/strengthen-your-straight-path" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
-
 ### Ask
 Here's the Twitter thread where you can ask clarifying questions while spreading the word of the Power of Marriage Habits!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nobody enters a marriage wanting it to end in betrayal. <br><br>No one stands at the altar and thinks to themselves, &quot;I can&#39;t wait to stray from my marriage.&quot;</p>&mdash; TheMarriageHabit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1640402350056800257?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -137,6 +137,7 @@ Once we open up the forums, you'll be able to fill out a simple form and ask que
 - [x] Create podcast
 - [x] Embed podcast
 - [ ] Create or add to publishing partnership
+- [ ] Optimize SEO
 
 
 
