@@ -20,7 +20,7 @@
 1. [ ] Repent
 2. [ ] Remember a positive past
 3. [ ] [[Silent gratitude hug\|Silent gratitude hug]]
-4. [ ] [[Share and Connect over your top worry\|Share and Connect over your top worry]]
+4. [ ] [[Connect With Each Other's Top Worry\|Connect With Each Other's Top Worry]]
 5. [x] [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
 6. [ ] [[Exchange Respect and Love\|Exchange Respect and Love]]
 7. [ ] [[Take out the trash\|Take out the trash]]
@@ -50,6 +50,6 @@
 31. [ ] Be Each Other's Help Mate
 32. [ ] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
-34. [ ] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
+34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
 
 
