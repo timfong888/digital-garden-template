@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/connect-with-each-other-s-top-worry/","created":"","updated":""}
 ---
 
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/how-worry-can-divide-your-marriage-and-the-key-to-repair" src="https://play.pod.co/the-marriage-habit/how-worry-can-divide-your-marriage-and-the-key-to-repair" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 > [!NOTE] Philippians 4:6-7
 > Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
@@ -111,6 +112,13 @@ They may not know.  They may want advice you can't give.
 ### Got Questions?  Ask Here:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why Worries Can Cause an Invisible Rift in Your Marriage<br><br>Worry can easily take over your mind and your heart.<br><br>Sadly, most couples don&#39;t know how to process their respective worries together.</p>&mdash; TheMarriageHabit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1640775590650474496?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Want More Related Habits?
+Check these out:
+
+- [[Exchange Respect and Love\|Exchange Respect and Love]]
+- [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
+- [[Check with Wise Counsel\|Check with Wise Counsel]]
+
 
   
 <!-- HTML Meta Tags --> <head><title>Connect With Each Other's Top Worry</title> <meta name="description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/connect-with-each-other-s-top-worry/"> <meta property="og:type" content="website"> <meta property="og:title" content="Connect With Each Other's Top Worry"> <meta property="og:description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680023394/obsidian/image_ksu7tz.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/connect-with-each-other-s-top-worry/"> <meta name="twitter:title" content="Connect With Each Other's Top Worry"> <meta name="twitter:description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680023394/obsidian/image_ksu7tz.png"></head> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
@@ -120,7 +128,7 @@ They may not know.  They may want advice you can't give.
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Create WebP Image
 - [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
-- [ ] Publish on Twitter
+- [x] Publish on Twitter
 - [x] Add form lock
 - [ ] Create podcast
 - [ ] Embed podcast
