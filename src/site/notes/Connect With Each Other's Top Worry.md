@@ -124,14 +124,15 @@ Check these out:
 <!-- HTML Meta Tags --> <head><title>Connect With Each Other's Top Worry</title> <meta name="description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/connect-with-each-other-s-top-worry/"> <meta property="og:type" content="website"> <meta property="og:title" content="Connect With Each Other's Top Worry"> <meta property="og:description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680023394/obsidian/image_ksu7tz.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/connect-with-each-other-s-top-worry/"> <meta name="twitter:title" content="Connect With Each Other's Top Worry"> <meta name="twitter:description" content="Worry can easily take over your mind and your heart. Even the most uplifting message to Trust instead of Worry will hit its limit. But unfortunately most couples don't know how to process their respective worries together. This can cause a slow rift to build. Or it can reach a tipping point which divides your marriage. Read more to find out how to face worries together."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680023394/obsidian/image_ksu7tz.png"></head> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
 
+##### Notes on this Article
 - [x] Publish Draft
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Create WebP Image
 - [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [x] Publish on Twitter
 - [x] Add form lock
-- [ ] Create podcast
-- [ ] Embed podcast
+- [x] Create podcast
+- [x] Embed podcast
 - [ ] Create or add to publishing partnership
 - [ ] Optimize SEO
 
