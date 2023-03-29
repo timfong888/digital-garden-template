@@ -20,7 +20,7 @@
 1. [ ] Repent
 2. [ ] Remember a positive past
 3. [ ] [[Silent gratitude hug\|Silent gratitude hug]]
-4. [ ] [[Connect With Each Other's Top Worry\|Connect With Each Other's Top Worry]]
+4. [x] [[Connect With Each Other's Top Worry\|Connect With Each Other's Top Worry]]
 5. [x] [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
 6. [ ] [[Exchange Respect and Love\|Exchange Respect and Love]]
 7. [ ] [[Take out the trash\|Take out the trash]]
