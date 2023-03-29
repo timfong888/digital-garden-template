@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/address-anger/","created":"","updated":""}
 ---
 
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/address-anger" src="https://play.pod.co/the-marriage-habit/address-anger" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 > [!NOTE] James 1:19-20
 > My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry, because human anger does not produce the righteousness that God desires.
@@ -23,6 +24,12 @@ And if we parse this in such a way, slow to speak in an angry man
 So the first one is it will break connection. It is any other emotion.
 
 I would say it's possible to have a connection with somebody over if they are fearful, if they are sad, if they are anxious, if they are distressed, if they are bothered, perturbed. However, anger makes it harder to build a connection with that person who's angry. It's a very volatile emotion.
+
+> [!WARNING] Unlock the rest of the article
+
+<div class="convertful-202420"></div>
+<!--- form here -->
+<div class="convertful-202420"></div>
 
 ### closes conversation
 One of the downfalls of the fact that it breaks connection is that it closes conversation. When someone is angry, it's hard to have a conversation. You can't really ask why or how.
@@ -66,7 +73,6 @@ Think about your scenario. What's the thoughts that created it?
 And then what are the actual facts? Because not all facts lead to whatever thought you had that created the anger. So now discuss it.
 
 
-
 ## how to discuss together for 15-minutes
 
 ### discuss your angry moment, if you had one
@@ -81,6 +87,7 @@ Discuss if you haven't already? Or strengthen or review ways you miti
 Once those words are spoken, they can't really be taken back. And there's not a time to revisit the past. There are times we should do it.
 
 If you have the time outside of 15 minutes, it's probably worth doing. Things that are said in anger, cause long term issues, and then chat as part of this devotion. How do you revisit ways you handle anger in the marriage? 
+
 ## pray
 
 - God's grace to relieve you of the spirit of "fast" anger and the patience to get there slowly
@@ -91,6 +98,21 @@ If you have the time outside of 15 minutes, it's probably worth doin
 - [[Remember That You Will Die\|Remember That You Will Die]]
 - [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
 - [[Exchange Respect and Love\|Exchange Respect and Love]]
+
+##### Notes for this Article
+- [x] Publish Draft
+- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Create WebP Image
+- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [ ] Publish on Twitter
+- [x] Add form lock
+- [x] Create podcast
+- [x] Embed podcast
+- [x] Add links to related articles that can be helpful
+- [ ] Create or add to publishing partnership
+- [ ] Optimize SEO
+
+
 
   
 <!-- HTML Meta Tags --> <title>Address Anger</title> <head><meta name="description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/address-anger/"> <meta property="og:type" content="website"> <meta property="og:title" content="Address Anger"> <meta property="og:description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/address-anger/"> <meta name="twitter:title" content="Address Anger"> <meta name="twitter:description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"> </head><!-- Meta Tags Generated via https://www.opengraph.xyz -->
