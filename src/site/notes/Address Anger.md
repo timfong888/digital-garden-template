@@ -152,7 +152,9 @@ Take time in this devotion, especially if you thankfully have not had an anger m
 - Peace and healing for any hurts from anger
 
 ## join the conversation on Twitter
-https://twitter.com/marriagehabit/status/1642948519098224640
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">why anger must be addressed to save your marriage:<br><br>Let anger brew and watch your marriage die. <br><br>Anger is a valid emotion.<br><br>But...</p>&mdash; Jonah | The Marriage Habit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1642948519098224640?ref_src=twsrc%5Etfw">April 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
