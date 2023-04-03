@@ -10,20 +10,34 @@
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png)
 
 ## why anger must be addressed to save your marriage
-Why must anger be addressed to save your marriage?
+Let anger brew and watch your marriage die. 
 
-We're not saying that no one gets angy.
+I am NOT saying that you can't get angry.
 
 Anger is a valid emotion.
 
-The verse asks us to be "slow to anger."
+But when one or both of you are quick to anger AND speak out in anger (see [[Control Your Tongue\|Control Your Tongue]]), you may unleash something you can't take back.
 
-And if we parse this in such a way, slow to speak in an angry manner, and then it's emphasizing it's human anger versus God's wrath does not produce the righteousness that God's desire. It's specifically talking about the nature of human anger.
+That something will corrode your marriage.
+
+So let's first see what the problems are from unleashing anger on each other.
 
 ### breaks connection
-So the first one is it will break connection. It is any other emotion.
+Being in a state of anger breaks connection.  Unlike any other emotion, when your spouse encounters you while you are angry, there cannot be any connection.
 
-I would say it's possible to have a connection with somebody over if they are fearful, if they are sad, if they are anxious, if they are distressed, if they are bothered, perturbed. However, anger makes it harder to build a connection with that person who's angry. It's a very volatile emotion.
+In fact, that other person, understandably, will move away, fostering disconnection. 
+
+With any other language, it's possible for a couple to connect. 
+
+Imagine if your spouse is expressing fear, sadness, worry, distress -- imagine this for a moment.
+
+Isn't it easier to desire to connect with that person?
+
+You want to form a connection based on curiosity and compassion.
+
+Now imagine an angry face (not worried) but angry, a tone of voice that reflects anger -- how do you feel?
+
+Do you want to move towards or away?
 
 > [!WARNING] Unlock the rest of the article
 
@@ -32,61 +46,104 @@ I would say it's possible to have a connection with somebody over if
 <div class="convertful-202420"></div>
 
 ### closes conversation
-One of the downfalls of the fact that it breaks connection is that it closes conversation. When someone is angry, it's hard to have a conversation. You can't really ask why or how.
+Anger that breaks connection closes conversation. 
 
-It's one of those things. Whereas with these others you can at least get curious. Now, someone can, and that is a good antidote, and we talk about that in other training outside of this devotional.
+When someone is angry, it's hard to have a conversation. Even if that is what we will help to address the issue.
 
-But it closes conversation. Think about the last time someone was and your spouse is angry with you and expresses that how hard it was to have a conversation. You can have a conversation when you're not angry about the anger, but not when you're angry.
+The angry person may think that they don't want to connection (but, really, doesn't everyone want connection?)
 
-Similarly, when you're in a state of being angry, it's kind of hard to have a good conversation. 
+But you definitely cannot have conversation.
+
+You can't really move from curiosity and compassion into a dialogue, because you don't have connection.
+
+And if you wanted to form a connection through conversation, you probably can't, either.
+
+Why?
+
+Because we need connection to have conversation.
 
 ### creates a controlling environment
 And the last one is it creates a controlling environment. 
 
-When someone is angry because somebody feels the connection breaking and closes the conversation, it invites control. The angry person, more often than not, some part of that has a control. Now, why is there control? We go into that in other training and a lot of that comes from some kind of hurt.
+This may seem surprising, but by getting angry, you don't need to feel the out-of-control that comes from being vulnerable.  Vulnerability comes from sharing a need (see [[Request: Mutual Benefit, Specific Action, Fulfill Your Need\|Request: Mutual Benefit, Specific Action, Fulfill Your Need]]).
 
-And so being able to connect with the hurt might be easier. But because of the nature of anger, it does create control. 
+But it's easier and keeps you in control if you turn that disappointment into anger at the other person.
 
-It creates control.  Ironically, the person who is quick to anger is out of control.
+You get to control the state of the relationship.  It stays stuck.  You don't have to do the work of letting someone be curious and compassionate towards you.
 
-But it controls the other person.
+Why?
+
+Because those are open-ended conversations.  The angry person wants a very specific outcome.  To open up the doors loses control.
+
+So it's easier to just stay in anger.
+
+Ironically, the person who is quick to anger is the one who lacks self-control.
+
+They do not move forward because they are controlling the other person.
 
 ## how to read this devotional privately
+Before going into your 15-minute conversation, take a full minute to reflect on these questions silently and privately.
 
 ### have you had a moment of being angry recently?
-So first with this devotional, read it privately, take a couple of moments and then have your conversation in the 15 minutes. So the first one is have you had a moment of being angry recently? And really just reflect on that. Could be something small, maybe you didn't say anything.
+Since the last time you came upon this devotion, did **you** act out in anger? 
 
-So that's better, but perhaps your spouse detected it. It's your face, it's your tone, which is a big part of speaking, or you actually acted out in anger. 
+It could be something small. Maybe you didn't say anything in your angry state, but you were angry, nevertheless. 
+
+But perhaps your spouse detected it. It's your face, it's your tone, which is a big part of speaking, or you actually acted out in anger. 
 
 ### what were your thoughts that created the anger?
-So as you do this, what were your thoughts that created the anger? Usually a thought is what creates that emotion.
+What were your thoughts that created your anger? 
 
-You don't just become angry. Something happened in that split second which you became angry. I had this with my wife and was trying to figure out why we were having this issue and a bad sort of decision.
+Most people believe the other person creates the anger.
 
-And I said, it was very hard for me to discuss this very important decision because you were responding in anger. But this is a very important decision for all of us. It was a financial decision.
+This is wrong.
 
-And I finally got to the point where she was angry. And I said, well, what's the thinking that's going on between anger? She was annoyed that I was bringing up the topic and thought it should just have been taken care of. But this was a joint decision, so I really didn't see a way around that.
+Your thoughts creates anger. 
 
-Think about your scenario. What's the thoughts that created it?
+Children can just become angry without knowing what or why. 
+
+For adults, you permit something to anger you.  It could be truly legitimate.  But that doesn't change the truth.
+
+Something happened in that split second which caused you to became angry. 
+
+Was it worth getting angry?  Some things do warrant anger.
+
+But was this situation one of them?
 
 ### what were the facts?
-And then what are the actual facts? Because not all facts lead to whatever thought you had that created the anger. So now discuss it.
+What are the actual facts? 
+
+What did you see your spouse do factually?
+
+What did your spouse say?
+
+If your spouse insulted you, you do have a right to become angry.  The question is whether you have self-control to not be angery, but then confront.
+
+Of, was it an unmet need (that perhaps your spouse doesn't know about!  see: [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]].)
+
+Because not all facts lead to you the thoughts **you chose to have** that created the anger. 
 
 
 ## how to discuss together for 15-minutes
+Do not get angry in this devotional!  Recall God's mercy from His just wrath, and be quick to listen.
 
 ### discuss your angry moment, if you had one
-You had an angry moment. Discuss it if you had one. We talk later about sort of a confessional language, but for now it's fine.
 
-Just discuss it. Let's address it. Let's try to not let it just, like, build up in the basement of your soul
+You had an angry moment. You were angry.  Talk about it, and ideally [[Confess and Pray Always\|Confess and Pray Always]].
+
+If you were the recipient of an angry moment from your spouse, you can also share the facts of the incident.
+
+If you think it needs to be discussed, agree either to set time later or to extend the time now.
+
+We want to make this a 15-minute habit.
 
 ### discuss and strengthen ways to mitigate "fast" anger
 Discuss if you haven't already? Or strengthen or review ways you mitigate fast anger. Everybody gets angry at some point. Fast anger, where you speak out.
 
 ### revisit your ways to handle anger in the marriage
-Once those words are spoken, they can't really be taken back. And there's not a time to revisit the past. There are times we should do it.
+Things that are said in anger cause long term issues. How do you revisit ways you handle anger in the marriage? 
 
-If you have the time outside of 15 minutes, it's probably worth doing. Things that are said in anger, cause long term issues, and then chat as part of this devotion. How do you revisit ways you handle anger in the marriage? 
+Take time in this devotion, especially if you thankfully have not had an anger moment recently, to recommit to the ways to handle anger in the marriage.
 
 ## pray
 
