@@ -48,7 +48,7 @@
 29. [ ] Spirit led
 30. [ ] Curiosity Led Knowing
 31. [ ] Be Each Other's Help Mate
-32. [ ] [[Address Anger\|Address Anger]]
+32. [x] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
 34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
 
