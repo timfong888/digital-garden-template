@@ -18,7 +18,7 @@ Anger is a valid emotion.
 
 But when one or both of you are quick to anger AND speak out in anger (see [[Control Your Tongue\|Control Your Tongue]]), you may unleash something you can't take back.
 
-That something will corrode your marriage.
+That something will silently corrode your marriage.
 
 So let's first see what the problems are from unleashing anger on each other.
 
@@ -151,6 +151,11 @@ Take time in this devotion, especially if you thankfully have not had an anger m
 - Wisdom to mitigate anger and to reconcile when it happens
 - Peace and healing for any hurts from anger
 
+## join the conversation on Twitter
+https://twitter.com/marriagehabit/status/1642948519098224640
+
+
+
 ### things to read about if you want other devotions
 - [[Remember That You Will Die\|Remember That You Will Die]]
 - [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
@@ -158,10 +163,10 @@ Take time in this devotion, especially if you thankfully have not had an anger m
 
 ##### Notes for this Article
 - [x] Publish Draft
-- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Create WebP Image
-- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
-- [ ] Publish on Twitter
+- [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [x] Publish on Twitter
 - [x] Add form lock
 - [x] Create podcast
 - [x] Embed podcast
