@@ -9,7 +9,35 @@
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/c_scale,w_1080/v1678911732/obsidian/image_iimm3k.png)
 
-In this habit agree to schedule time with a wide counselor to hang out and talk about what's going on in your marriage. 
+### Introduction
+You can avoid the costs of couples therapy with this one habit. 
+
+What do you **believe** your therapist brings to your relationship?
+
+**Wisdom**. 
+
+You assume they know something you don't. Hopefully they do. 
+
+But before you take that route, consider building a habit of cultivating multiple wise counsel before you need it.
+
+Here's how:
+
+1. Individually, reflect on whom you consider wise
+2. Together, share who they are
+3. Discuss: what types of wise people do you want in your life for your marriage?
+4. Plan: how and when will you reach out?
+
+Want the details so you make the most of this habit?
+
+Read on:
+
+## why develop your marriage's wise counsel now
+
+Wisdom grows with time. 
+
+When it comes to your marriage, wisdom grows in relarionship. 
+
+this habit agree to schedule time with a wide counselor to hang out and talk about what's going on in your marriage. 
 
 This is not a hang out. It's wise counsel. 
 
