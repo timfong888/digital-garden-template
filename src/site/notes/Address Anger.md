@@ -156,8 +156,6 @@ Take time in this devotion, especially if you thankfully have not had an anger m
 
 
 
-
-
 ### things to read about if you want other devotions
 - [[Remember That You Will Die\|Remember That You Will Die]]
 - [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
