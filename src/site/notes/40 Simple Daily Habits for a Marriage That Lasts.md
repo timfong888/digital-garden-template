@@ -30,7 +30,7 @@
 11. [ ] We have enough today
 12. [ ] Plant a seed
 13. [ ] Cleaving from mother and father
-14. [ ] [[Check with Wise Counsel\|Check with Wise Counsel]]
+14. [x] [[Check with Wise Counsel\|Check with Wise Counsel]]
 15. [ ] Truth and grace for a better we
 16. [ ] Celebrate change
 17. [ ] Affirming each other's gift
@@ -47,7 +47,7 @@
 28. [ ] Follow Jesus as Lord
 29. [ ] Spirit led
 30. [ ] Curiosity Led Knowing
-31. [ ] Be Each Other's Help Mate
+31. [ ] [[Be Their Help Mate\|Be Their Help Mate]]
 32. [x] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
 34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
