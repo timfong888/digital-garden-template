@@ -8,6 +8,9 @@
 
 [Click here to listen to the podcast](https://podcast.themarriagehabit.com/be-each-others-helper)
 
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/be-each-others-helper" src="https://play.pod.co/the-marriage-habit/be-each-others-helper" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
+
+
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681150312/obsidian/image_zexbsw.png)
 
 ## why
@@ -92,6 +95,10 @@ Can we seek the help we truly need in a way to confidently receive it?
 - [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
 - [[Address Anger\|Address Anger]]
 
+### comment on Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Love languages are great and all. But there&#39;s another four-letter word we can get right.<br><br>It&#39;s actually something we do daily.<br><br>But we have different ways to handle it.<br><br>Help.<br><br>You can help someone in a way they don&#39;t want to be helped.</p>&mdash; Jonah | The Marriage Habit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1645501484635918336?ref_src=twsrc%5Etfw">April 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ##### Notes for this Article
 - [x] Publish Outline
 - [x] Record podcast
@@ -101,8 +108,8 @@ Can we seek the help we truly need in a way to confidently receive it?
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Create WebP Image
 - [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
-- [ ] Publish on Twitter
-- [ ] Add comment thread
+- [x] Publish on Twitter
+- [x] Add comment thread
 - [x] Add form lock
 - [x] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
