@@ -94,8 +94,8 @@ Can we seek the help we truly need in a way to confidently receive it?
 
 ##### Notes for this Article
 - [x] Publish Outline
-- [ ] Record podcast
-- [ ] [Create podcast](https://studio.podcast.co/login)
+- [x] Record podcast
+- [x] [Create podcast](https://studio.podcast.co/login)
 - [ ] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
