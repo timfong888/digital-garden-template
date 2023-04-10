@@ -1,0 +1,107 @@
+---
+{"dg-publish":true,"permalink":"/be-their-help-mate/","created":"","updated":""}
+---
+
+
+> [!NOTE] Ecclesiastes‬ ‭4‬:‭9‬-‭12‬ ‭
+> “Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up. Also, if two lie down together, they will keep warm. But how can one keep warm alone? Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.”
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681087457/obsidian/image_dyzhig.png)
+
+
+## why
+This simple shift in perspective can help you draw closer to each other. 
+
+It's more valuable and tangible than the "love languages."
+
+But it's not just a relationship thing. 
+
+It's also real world and practical. 
+
+It's a new "four letter word" you can use in your marriage. 
+
+Once you grasp this, you can understand each other better. 
+
+Reduce the judging and conflict. 
+
+And feel better about yourself. 
+
+In fact, had I learned and practiced this habit within my own marriage, we would have avoided a lot of pain and resentment. 
+
+What's the idea?  Help
+
+How can you be the other person's Helper and enjoy it?
+
+## our story
+During a difficult time at work, for around 9 months I would ask my wife for her opinion. 
+
+> [!WARNING] Unlock the rest of the article
+> If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
+<div class="convertful-202420"></div>
+<!--- form here -->
+<div class="convertful-202420"></div>
+
+I was reaching out for help and asking her advice on different ways. 
+
+"What do you think?"
+
+"What does it mean?"
+
+But each time, she would frown, raise her voice and give a snap answer. 
+
+Two years later, still bothered by this, I asked her directly: "It seemed like just asking for help and your advice ireitated you. Did it?"
+
+Angrily, she said "Yes. It did bother me. It does bother me when you ask me for help."
+
+I realized then that we needed a better habit. 
+
+[[The Helpmeet Secret/Help Each Other\|Help Each Other]]
+
+## how
+
+### privately
+Spend a moment alone and ask yourself these two questions:
+
+1. When you are in trouble, how do you most want to be helped?
+2. How do you ask for help?
+
+### together
+
+1. How have you received each other's request for help?
+2. How can it be improved so it's easier to be a helper?
+3. How can help be better delivered so it's appreciated?
+4. How can you help one another today?
+
+## look up
+God sent a helper in his Son. He did what we cannot do ourselves: make ourselves righteous before God. It's 100% work of Christ. 
+
+Can we be an offer of help when asked plainly and humbly?
+
+Can we seek the help we truly need in a way to confidently receive it?
+
+## pray
+1. God, give us a spirit and a willingness and a joy to help
+2. Curb our tongue and take captive our thoughts to ask for help instead of demanding results 
+3. Spirit, guide us to know when we need help, what that is, and how to ask the other in joyful interdependence 
+
+## more
+- [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
+- [[Address Anger\|Address Anger]]
+
+##### Notes for this Article
+- [x] Publish Outline
+- [ ] Record podcast
+- [ ] [Create podcast](https://studio.podcast.co/login)
+- [ ] Embed podcast
+- [ ] [Get a voice to text transcription](https://happyscribe.com) 
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [ ] Create WebP Image
+- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [ ] Publish on Twitter
+- [ ] Add comment thread
+- [ ] Add form lock
+- [x] Add links to related articles that can be helpful
+- [ ] Create or add to publishing partnership
+- [ ] [Create YouTube Thumbnail](https://flixier.com)
+- [ ] Optimize SEO
+
