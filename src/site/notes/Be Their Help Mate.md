@@ -6,8 +6,9 @@
 > [!NOTE] Ecclesiastes‬ ‭4‬:‭9‬-‭12‬ ‭
 > “Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up. Also, if two lie down together, they will keep warm. But how can one keep warm alone? Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.”
 
-![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681087457/obsidian/image_dyzhig.png)
+[Click here to listen to the podcast](https://podcast.themarriagehabit.com/be-each-others-helper)
 
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681150312/obsidian/image_zexbsw.png)
 
 ## why
 This simple shift in perspective can help you draw closer to each other. 
@@ -58,6 +59,9 @@ I realized then that we needed a better habit.
 [[The Helpmeet Secret/Help Each Other\|Help Each Other]]
 
 ## how
+First, read the scripture and devotional privately and reflect on the questions below for about a minute.
+
+Then come together to discuss the questions or any other items that come up.
 
 ### privately
 Spend a moment alone and ask yourself these two questions:
@@ -95,11 +99,11 @@ Can we seek the help we truly need in a way to confidently receive it?
 - [ ] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
 - [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
-- [ ] Create WebP Image
-- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [x] Create WebP Image
+- [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [ ] Publish on Twitter
 - [ ] Add comment thread
-- [ ] Add form lock
+- [x] Add form lock
 - [x] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 - [ ] [Create YouTube Thumbnail](https://flixier.com)
