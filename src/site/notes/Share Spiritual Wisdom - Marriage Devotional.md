@@ -5,6 +5,7 @@
 
 > [!NOTE]  ‭‭1 Corinthians‬ ‭2‬:‭13‬-‭14‬ ‭ESV‬‬
 > “And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual. The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned.”
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/share-spiritual-truths-marriage-devotional" src="https://play.pod.co/the-marriage-habit/share-spiritual-truths-marriage-devotional" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681340810/obsidian/image_qrneiy.png)
 
