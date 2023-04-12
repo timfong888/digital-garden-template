@@ -6,7 +6,7 @@
 > [!NOTE]  ‭‭1 Corinthians‬ ‭2‬:‭13‬-‭14‬ ‭ESV‬‬
 > “And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual. The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned.”
 
-![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681271872/obsidian/image_d1rtwp.png)
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681340810/obsidian/image_qrneiy.png)
 
 
 Is it possible that speaking about "common things" can be ==hurting your marriage==?
