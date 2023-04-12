@@ -91,6 +91,10 @@ It can be an **active** reflection on:
 ## Additional teachings: 
 - [[Communication Barrier Between the Unequally Yoked\|Communication Barrier Between the Unequally Yoked]]
 
+## Join on Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Most couples miss this part of their conversation....even if they talk everyday about &quot;stuff&quot; going on in their life.<br><br>Today&#39;s devotional is based on 1 Corinthians 2:13-14...</p>&mdash; Jonah Jeremiah | The Marriage Habit (@marriagehabit) <a href="https://twitter.com/marriagehabit/status/1646292750202195968?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ##### Notes for this Article
 - [x] Publish Outline
