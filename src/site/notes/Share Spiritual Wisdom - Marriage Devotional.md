@@ -95,10 +95,10 @@ It can be an **active** reflection on:
 ##### Notes for this Article
 - [x] Publish Outline
 - [x] Record podcast
-- [ ] [Create podcast](https://studio.podcast.co/login)
-- [ ] Embed podcast
+- [x] [Create podcast](https://studio.podcast.co/login)
+- [x] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
-- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Generate AI Image (7:4)
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
 - [x] Create WebP Image
@@ -108,10 +108,10 @@ It can be an **active** reflection on:
 - [x] Add form lock
 - [x] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
-- [ ] Create blog and image
 - [ ] [Create YouTube Video](https://flixier.com)
 - [ ] Optimize SEO
 
 
   
-<!-- HTML Meta Tags --> <title>Share Spiritual Wisdom | Marriage Devotional</title> <head><meta name="description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/share-spiritual-wisdom/"> <meta property="og:type" content="website"> <meta property="og:title" content="Share Spiritual Wisdom | Marriage Devotional"> <meta property="og:description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681271872/obsidian/image_d1rtwp.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/share-spiritual-wisdom/"> <meta name="twitter:title" content="Share Spiritual Wisdom | Marriage Devotional"> <meta name="twitter:description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681271872/obsidian/image_d1rtwp.png"></head> <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+  
+<!-- HTML Meta Tags --> <title>Share Spiritual Wisdom | Marriage Devotional</title> <head><meta name="description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/share-spiritual-wisdom/"> <meta property="og:type" content="website"> <meta property="og:title" content="Share Spiritual Wisdom | Marriage Devotional"> <meta property="og:description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681340810/obsidian/image_qrneiy.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/share-spiritual-wisdom/"> <meta name="twitter:title" content="Share Spiritual Wisdom | Marriage Devotional"> <meta name="twitter:description" content="Are you spending time talking about common, human wisdom in your marriage? Then you are experiencing division that is hidden and subtle."> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681340810/obsidian/image_qrneiy.png"> </head><!-- Meta Tags Generated via https://www.opengraph.xyz -->
