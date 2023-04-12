@@ -35,7 +35,7 @@
 16. [ ] Celebrate change
 17. [ ] Affirming each other's gift
 18. [ ] Sin scan and confess
-19. [ ] [[Share Spiritual Wisdom\|Share Spiritual Wisdom]]
+19. [ ] [[Share Spiritual Wisdom - Marriage Devotional\|Share Spiritual Wisdom - Marriage Devotional]]
 20. [ ] Redeem an annoyance
 21. [ ] Shame release
 22. [ ] Fear release
