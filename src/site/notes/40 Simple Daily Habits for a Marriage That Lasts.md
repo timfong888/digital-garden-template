@@ -35,7 +35,7 @@
 16. [ ] Celebrate change
 17. [ ] Affirming each other's gift
 18. [ ] Sin scan and confess
-19. [ ] Share spiritual wisdom
+19. [ ] [[Share Spiritual Wisdom\|Share Spiritual Wisdom]]
 20. [ ] Redeem an annoyance
 21. [ ] Shame release
 22. [ ] Fear release
@@ -47,7 +47,7 @@
 28. [ ] Follow Jesus as Lord
 29. [ ] Spirit led
 30. [ ] Curiosity Led Knowing
-31. [ ] [[Be Their Help Mate\|Be Their Help Mate]]
+31. [x] [[Be Their Help Mate\|Be Their Help Mate]]
 32. [x] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
 34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
