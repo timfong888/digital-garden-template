@@ -9,8 +9,11 @@ TLDR: The moment you exchange vows, your marriage starts a slow boil -- and you 
 
 You know the frog in the pot story?
 
-I'm going to tell you, because you are the frog. 
+I'm going to tell you, because ==you are the frog==. 
 
+In this story, the frog jumps into a pot of water.  A low flame heats the pot. But the frog doesn't feel the heat in the beginning.
+
+In fact, it never feels the water is too hot. 
 
 Wouldn't you want to know what kills the frog in this story?
 
@@ -19,7 +22,6 @@ It's the boiling water. No surprise.
 But that's the wrong question to ask. 
 
 What starts the slow boil to begin with? 
-
 
 ## all marriage problems start the same way
 
@@ -44,7 +46,6 @@ No matter who you are, you have stuff that is slowly corroding your marriage.
 Your spouse has the same. Whether you have more or less doesn't matter. Because you are in the same pot of slowly boiling water. 
 
 Now, from outside the pot hearing this tale, what is your response?
-
 
 
 ## why you may put this book down and never look back
