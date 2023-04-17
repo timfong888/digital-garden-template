@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/bible-study-1/why-have-a-marriage-habit/","created":"","updated":""}
 ---
 
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681762078/obsidian/image_wcy8hk.png)
 
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/why-do-you-need-a-marriage-habit" src="https://play.pod.co/the-marriage-habit/why-do-you-need-a-marriage-habit" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 In a perfect environment without kids and work, Adam and Eve messed up their marriage. 
 
