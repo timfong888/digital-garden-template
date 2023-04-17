@@ -35,13 +35,13 @@
 16. [ ] Celebrate change
 17. [ ] Affirming each other's gift
 18. [ ] Sin scan and confess
-19. [ ] [[Share Spiritual Wisdom - Marriage Devotional\|Share Spiritual Wisdom - Marriage Devotional]]
+19. [x] [[Share Spiritual Wisdom - Marriage Devotional\|Share Spiritual Wisdom - Marriage Devotional]]
 20. [ ] Redeem an annoyance
 21. [ ] Shame release
 22. [ ] Fear release
 23. [ ] Parenting principle
 24. [ ] Physical intimacy
-25. [ ] Hold a boundary conversation
+25. [ ] [[Hold a Boundary Conversation\|Hold a Boundary Conversation]]
 26. [ ] Connection rituals
 27. [ ] Love God
 28. [ ] Follow Jesus as Lord
