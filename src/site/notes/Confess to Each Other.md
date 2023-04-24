@@ -5,6 +5,8 @@
 > [!NOTE] ‭‭James‬ ‭5‬:‭16‬ ‭NKJV‬‬
 > “Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.”
 
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1682363613/obsidian/image_y3jdzy.png)
+
 ## why
 Today's marriage devotional is perhaps one of the hardest habits.
 
@@ -30,7 +32,11 @@ And yet, if it can become a habit met with grace, I believe the Scriptures are t
 
 ### what
 Confession is to express a trespass.  It is a crossing of a boundary ([[Hold a Boundary Conversation\|Hold a Boundary Conversation]]).
-
+> [!WARNING] Unlock the rest of the article
+> If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
+<div class="convertful-202420"></div>
+<!--- form here -->
+<div class="convertful-202420"></div>
 Sinning against your spouse or being sinned against by your spouse is a form of boundary crossing.
 
 But, it's not a boundary unless the other person knows it as such, which is why [[Hold a Boundary Conversation\|the boundary conversation]] matters.  If you are offended by your spouse crossing an unknown boundary, the weight and responsibility is on you to clarify this.
@@ -91,6 +97,11 @@ He desires our confession of our sinfulness, and when we declare faith to place 
 
 Such is the power of Jesus; and we can have similar power in our own families.
 
+## related marriage devotionals
+- [[Request One of Your Needs to be Met\|Request One of Your Needs to be Met]]
+- [[Bring Expectations to Light\|Bring Expectations to Light]]
+- [[Hold a Boundary Conversation\|Hold a Boundary Conversation]]
+
 ##### Notes for this Article
 - [x] Publish Outline
 - [ ] Record podcast
@@ -104,7 +115,7 @@ Such is the power of Jesus; and we can have similar power in our own families.
 - [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [ ] Publish on [Twitter](https://twitter.com)
 - [ ] Add comment thread
-- [ ] Add form lock
+- [x] Add form lock
 - [ ] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 
