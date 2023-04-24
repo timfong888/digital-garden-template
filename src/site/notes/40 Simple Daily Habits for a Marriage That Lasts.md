@@ -17,7 +17,7 @@
  <!--- form here use arrow to go down one line-->
 <div class="convertful-202420"></div>
 
-1. [ ] Repent
+1. [ ] [[Confess to Each Other\|Confess to Each Other]]
 2. [ ] Remember a positive past
 3. [ ] [[Silent gratitude hug\|Silent gratitude hug]]
 4. [x] [[Connect With Each Other's Top Worry\|Connect With Each Other's Top Worry]]
@@ -51,5 +51,6 @@
 32. [x] [[Address Anger\|Address Anger]]
 33. [ ] Fix Your Eyes on the Prize
 34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
+35. [ ] [[Bring Your Expectations to Light\|Bring Your Expectations to Light]]
 
 
