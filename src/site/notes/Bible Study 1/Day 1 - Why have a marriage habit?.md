@@ -122,15 +122,45 @@ Exhortations to be more loving and forgiving and more sacrificial in our marriag
 
 What then is the new paradise we want to get to!
 
-## The paradise of consistent restoration
+## The Paradise of Consistent Restoration
 
 So if the legalism of marriage perfection is lie that leads to the deeper pain of failure, blame and shame, what is the place that everyone wants to get? 
 
-Most people have a sense of what part of that promised land is for a marriage. It is one that is more joyful, more loving, not a sense of loneliness, a greater sense of fulfillment. But I think somewhere within this, we've lost the sense of what the promised land really can be because we're grounding ourselves in the law. But that's achievable when we do all these things correctly. I think the promised land really is. But there's some things that recognize we can't be the perfect wife or husband, and yet we still have a near perfect relationship. That to me is a better picture of the promised land. And it certainly is the picture of the Bible. God offers us his promised land, even though we fall way short of what he actually expects as a standard for us to get there. He says, You would not be able to do this. So therefore, I'm going to have somebody come here to pay that price for you. That's the promised land that comes through grace. Therein lies part of the solution, which is what I call the habit.
+Most people have a sense the promised land for a marriage. 
 
-Now, habits sound like it falls in the legalistic part. You have to have a good habit of going to the gym, brushing your teeth, drinking a lot of water, whatever that habit is. I recognize that there's some tension here of what is legalistic versus what is grace. But what I mean to say is a habit is not about the perfection. This habit that I'm proposing is one that allows us to identify our flaws together and work on them together, to work proactively to heal a marriage because it presumes the marriage is going to start experience breakage. From the moment two people who have their own stuff come together under one household, I call it the point of the boiling frog. You're in a pot, there's water, and someone has turned on the stove. But you don't know it yet. You can't tell. But we all know how the story ends. Eventually, it gets hot enough where the frog dies. And in many ways, that's what a marriage is. You get in there. But from the moment two people with their own junk get into the marriage, they don't even see it. They're not even aware of it.
+It is one that is more joyful, more loving, fullling, trustfilled, intimate....you can probably go on and one of what that paradise could be.
 
-So this is where my solution that's different from the common knowledge of be the best person now, live your best life now, be the perfect husband or wife. You almost have to be a spiritual giant to do so many of the things that are advocated online and through the general media to have a great marriage. Minds is actually slightly different. It's presuming you're going to mess up. This habit is bringing forth to you together so that you're not pointing fingers at one another what it is to make the marriage better. That context is the word. Now, someone may say, Oh, but that's been advice all along. Pray together, read the Bible together. I'm saying those things are good, but not sufficient. The insight I had is those things are good, but sometimes we need more guidance in what the scriptures are and the intention behind these scriptures. Many times the scriptures are for us to understand God and promote our closeness to Him, our knowledge of Him, our devotion and obedience to Him. You could say, by virtue of that, it should affect your marriage. I would say in an ideal world, that is probably very true.
+However, the means to that paradise is where we get lost.
+
+Most believe that the way to get there is **through the law:** be more, do more, be better.
+
+To me, Jesus is actually our true model of paradise, which is a source of restoration.
+
+For us on this earth, that restoration within a marriage should come from a habit -- which sounds legalistic.
+
+After all, Jesus was an act of faith, and faith alone, when it brings forth good fruits, is sufficient.
+
+I recognize that there's some tension here of what is legalistic versus what is grace. 
+
+These marriages habits acknowledge we are in an eternal state of imperfection. 
+
+The habit of this marriage devotional is to identify our flaws together and work on them together, to  proactively to heal a marriage because we presume the marriage is a slowly boiling pot and we are the two frogs. 
+
+You're both in a pot, there's water, and the stove has been turned on. But you don't know it yet. You can't tell. But we all know how the story ends. 
+
+Eventually, the pot gets hot enough where the frogs die. 
+
+And in many ways, that's what a marriage is. You get in there. But from the moment two people with their own junk get into the marriage, they don't even see it. They're not even aware of it.
+
+So this is where my solution that's different from the common knowledge of be the best person now, live your best life now, be the perfect husband or wife. You almost have to be a spiritual giant to do so many of the things that are advocated online and through the general media to have a great marriage. 
+
+The marriage habits presumes the temperature is rising.  
+
+The habits are pouring cool water into the pot.  It lowers the temperature.
+
+This habit is bringing forth to you together so that you're not pointing fingers at one another what it is to make the marriage better. 
+
+That context is the word. Now, someone may say, Oh, but that's been advice all along. Pray together, read the Bible together. I'm saying those things are good, but not sufficient. The insight I had is those things are good, but sometimes we need more guidance in what the scriptures are and the intention behind these scriptures. Many times the scriptures are for us to understand God and promote our closeness to Him, our knowledge of Him, our devotion and obedience to Him. You could say, by virtue of that, it should affect your marriage. I would say in an ideal world, that is probably very true.
 
 But I think the reality is sometimes we need something a little bit more intentional that draws from actual experience or science or research on what are the issues in a marriage and let's be proactive about them. And so that's where I came up with this daily habit of devotions based on my own experience of reading and just in my own marriage, realizing, I wish we had tackled that issue sooner. I wish that we had a scripture led conversation around this topic way earlier in our marriage. Here's the other part with much greater frequency. Here are the elements of what I've put together. First one, I love the concept of devotionals because it's daily. Before with my marriage, I put a 90 day checkpoint with our marriage coach, our marriage pastor. I thought, Okay, great. Every 90 days, we're going to come in, check in, talk about what's going on, help us course correct. It was mostly good, but we still ended up hitting very, very difficult times because that 90 day stretch, a lot could happen. And then just spending that one hour talking about stuff that happened in the previous 90 days that we need to address and then waiting another 90 days, it just wasn't great.
 
@@ -138,17 +168,6 @@ So one is you have the 90 days, we hit a tough patch, immediately go into, Okay,
 
 And one of those is something that we do daily. So there's a habit that's daily, but specifically around our marriage, long before we have the problems. So I'll go into a little more detail in the next episode around what makes content great for this daily habit.
 
-
-
-In a perfect environment without kids and work, Adam and Eve messed up their marriage. 
-
-They took their eyes off of God. 
-
-And fell into temptation.
-
-That same sin runs through every married couple who must also contend with a fallen, wicked world. 
-
-So....habits?
 
 > [!NOTE] ‭‭Psalm‬ ‭119‬:‭97‬-‭98‬ ‭ESV‬‬
 > “Oh how I love your law! It is my meditation all the day. Your commandment makes me wiser than my enemies, for it is ever with me.”
