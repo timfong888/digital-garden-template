@@ -10,14 +10,9 @@
 
 
 ### What are the 40 Habits?
-
-> [!WARNING] Unlock the rest of the article
-> If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
-<div class="convertful-202420"></div>
- <!--- form here use arrow to go down one line-->
 <div class="convertful-202420"></div>
 
-1. [ ] [[Confess to Each Other\|Confess to Each Other]]
+1. [x] [[Confess to Each Other\|Confess to Each Other]]
 2. [ ] Remember a positive past
 3. [ ] [[Silent gratitude hug\|Silent gratitude hug]]
 4. [x] [[Connect With Each Other's Top Worry\|Connect With Each Other's Top Worry]]
