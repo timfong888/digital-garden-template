@@ -6,6 +6,7 @@
 > “Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.”
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1682363613/obsidian/image_y3jdzy.png)
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/confess-to-each-other" src="https://play.pod.co/the-marriage-habit/confess-to-each-other" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 ## why
 Today's marriage devotional is perhaps one of the hardest habits.
@@ -56,7 +57,7 @@ These are more obvious because they are observable.
 
 But the sin that drives couples apart is judgment -- especially holding someone accountable to an unspoken or unrealistic expectation ([[Bring Expectations to Light\|Bring Expectations to Light]]).
 
-This is judging someone based on a law you created.
+This is judging your spouse based on a law you created without their knowing.
 
 If doing so brings forth resentment and bitterness within you, it should also be confessed.
 
@@ -65,7 +66,7 @@ In your 1-minute of preparation, think about boundary breaking.
 
 Ask yourself the following questions and take note of any topics to confess:
 
-1. Have you judged someone for an unexpressed expectation (even if that expectation is a reasonable one)?
+1. Have you judged your spouse for an unexpressed expectation (even if that expectation is a reasonable one)?
 2. Have you spoken in a tone or with an intent to convey criticism, tearing down the person?
 3. Have you spoken in a tone or with an intent to convey contempt, your dissatisfaction with a person?
 4. Have you acted in ways that stonewall, either by action (walking away) or in communicating (a shutting-down manner of speaking or appearing)?
@@ -104,7 +105,7 @@ Such is the power of Jesus; and we can have similar power in our own families.
 
 ##### Notes for this Article
 - [x] Publish Outline
-- [ ] Record podcast
+- [x] Record podcast
 - [ ] [Create podcast](https://studio.podcast.co/login)
 - [ ] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
