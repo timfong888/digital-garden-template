@@ -25,8 +25,9 @@ The Problem: All marriages start as the frog in a pot of cool water...that's sit
 
 The rest of this series covers the following:
 
-- The Lie: Why Better Communication or Therapy Cannot Save You
-- The Pain: 
+- False Peace is No Peace
+- Be Spiritually Wise, Not Worldly Foolish
+- 
 
 -- 
 
