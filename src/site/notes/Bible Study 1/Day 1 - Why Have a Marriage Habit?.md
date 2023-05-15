@@ -27,7 +27,7 @@ The rest of this series covers the following:
 
 - False Peace is No Peace
 - Be Spiritually Wise, Not Worldly Foolish
-- 
+- Cool the Withering Heat
 
 -- 
 
