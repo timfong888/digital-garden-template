@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-1/day-3-be-spiritually-wise/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marital-devotional-spiritually-wise","permalink":"/marital-devotional-spiritually-wise/","created":"","updated":""}
 ---
 
 
 ### problem
-Now that the water is boiling, you, your partner, or both look around for answers.  Your specific conflicts will differ from couple to couple. 
+Now that the water is near boiling, you, your partner, or both look around for answers.  Your specific conflicts will differ from couple to couple. 
 
-But underneath all broken relationships are growing distance, resentment, condemnation, and contempt. 
+But all broken relationships are the same: growing distance, resentment, condemnation, and contempt. 
 
 ### the lie
-Now there's some urgency. Perhaps now you agree to see a therapist. Or you start talking to friends. Or randomly selecting podcasts, books or classes. 
+There's some urgency. Perhaps now you agree to see a therapist. Or you start talking to friends. Or randomly selecting podcasts, books or classes. 
 
 Some may be good. 
 
@@ -17,46 +17,53 @@ But many will not.
 
 A common refrain from all those sources: decide what is best for you.  Choose you. Punish the other. 
 
-It's a lie 
+It's a lie.
 
 ### the pain
 Yet most of the world believes this line of thinking. 
 
-The self-centeredness is masked as wise and compassionate. 
+The self-centeredness is masked as wisdom and compassion. 
 
 Which leads to further separation. Digging in of heels. Arguments and defensiveness. 
 
 But you can go past this. 
 
 ### the promised land
-What we want in the storm is knowing the root cause. And to know the salve. 
+The promised land on this side of heaven isn't the absence of pain and conflict.
 
-We know some of it is in ourselves but in this heated moment, cannot face it. 
+It's knowing how to calm the storm. It's knowing what is at the root.
 
-In nearly every case (minus extreme mental disorder or addiction), the conflict is likely from two dynamics: shame or fear. 
+We know part of the problems lies within ourselves but in this heated moment, cannot face it. The promised land gives us grace to face our sinfulness and fear.
+
+In nearly every case (minus extreme mental disorder or addiction), the conflict grows from two forces: shame or fear. 
 
 Jesus frees us from shame for our sins and from fear of a just punishment. 
 
 ### the truth
 Spiritual wisdom can shape your mind and reveal your heart.
 
-Worldly wisdom is foolishness. And foolishness will lead you to destruction. 
+Worldly wisdom is foolishness. And foolishness will lead you to destruction.
+
+A self-centered wisdom protects us from shame and fear.  And puts the weight on the other: our spouse, our parents, our circumstances.
+
+Spiritual wisdom reveals the truth.
 
 ### your next step 
 Are you ingesting or building a library of human knowledge?  
 
-Or do you have at hand a regular, relevant source of spiritual wisdom in your life?
+Or do you have a regular, relevant source of spiritual wisdom in your life?
 
-Assess your intake for how much it directly feeds your marriage. Resolve to make a change with a steady source. 
+Assess your intake for how much it directly feeds your marriage. 
+
+Resolve to make build your marriage upon with a steady source of spiritual wisdom based on Scripture. 
 
 
 
+> [!NOTE] 1 Corinthians‬ ‭3‬:‭19‬ ‭NKJV‬‬
+> “For the wisdom of this world is foolishness with God. For it is written, “He catches the wise in their own craftiness”;”
 
-“For the wisdom of this world is foolishness with God. For it is written, “He catches the wise in their own craftiness”;”
-‭‭I Corinthians‬ ‭3‬:‭19‬ ‭NKJV‬‬
-https://bible.com/bible/114/1co.3.19.NKJV
 
-““Fools die because they refuse to follow wisdom. They are content to follow their foolish ways, and that will destroy them.”
-‭‭Proverbs‬ ‭1‬:‭32‬ ‭ERV‬‬
-https://bible.com/bible/406/pro.1.32.ERV
+> [!NOTE] Proverbs‬ ‭1‬:‭32‬ ‭ERV‬‬
+> “Fools die because they refuse to follow wisdom. They are content to follow their foolish ways, and that will destroy them.”
+
 
