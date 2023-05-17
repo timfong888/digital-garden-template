@@ -8,6 +8,7 @@
 > [!NOTE] Luke‬ ‭6‬:‭46‬ ‭NKJV‬‬
 > ““But why do you call Me ‘Lord, Lord,’ and not do the things which I say?” ‭‭
 
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/follow-jesus-as-lord" src="https://play.pod.co/the-marriage-habit/follow-jesus-as-lord" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 Being unequally yoked will hobble your relationship. 
 
@@ -30,6 +31,11 @@ If you are unequally yoked, your steps can lead to your spouse's missteps. Your 
 You are both adults and, even when tugged off the right path, are still accountable for your choices. 
 
 But why make it harder for each other by straying from fixing your eyes and heart upon Jesus?
+> [!WARNING] Unlock the rest of the article
+> If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
+<div class="convertful-202420"></div>
+<!--- form here -->
+<div class="convertful-202420"></div>
 
 ## reflection
 Have you checked whether you truly are follow Jesus and His words as if He were your Lord?  What do you think would change and what has been in the way?
@@ -45,20 +51,25 @@ Share your respective walks and where you are following and where you are strayi
 - Convict is if we cause the other to stumble and if we wander
 - Give us the strength to focus on you as Lord
 
+## related devotionals
+- [[Confess to Each Other\|Confess to Each Other]]
+- [[Share Spiritual Wisdom - Marriage Devotional\|Share Spiritual Wisdom - Marriage Devotional]]
+
+
 ##### Notes for this Article
 - [x] Publish Outline
-- [ ] Record podcast
-- [ ] [Create podcast](https://studio.podcast.co/login)
-- [ ] Embed podcast
+- [x] Record podcast
+- [x] [Create podcast](https://studio.podcast.co/login)
+- [x] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
-- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [x] Generate AI Image (120:63)
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
 - [x] Create WebP Image
 - [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [ ] Publish on [Twitter](https://twitter.com)
 - [ ] Add comment thread
-- [ ] Add form lock
+- [x] Add form lock
 - [ ] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 
