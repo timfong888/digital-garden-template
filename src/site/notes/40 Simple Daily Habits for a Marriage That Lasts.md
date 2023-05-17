@@ -36,10 +36,10 @@
 22. [ ] Fear release
 23. [ ] Parenting principle
 24. [ ] Physical intimacy
-25. [ ] [[Hold a Boundary Conversation\|Hold a Boundary Conversation]]
+25. [x] [[Hold a Boundary Conversation\|Hold a Boundary Conversation]]
 26. [ ] Connection rituals
 27. [ ] Love God
-28. [ ] Follow Jesus as Lord
+28. [ ] [[Follow Jesus as Lord\|Follow Jesus as Lord]]
 29. [ ] Spirit led
 30. [ ] Curiosity Led Knowing
 31. [x] [[Be Their Help Mate\|Be Their Help Mate]]
