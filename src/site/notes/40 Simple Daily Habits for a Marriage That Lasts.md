@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"40-habits-marriage-devotional","permalink":"/40-habits-marriage-devotional/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"40-habits-marriage-devotional","permalink":"/40-habits-marriage-devotional/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 ---
