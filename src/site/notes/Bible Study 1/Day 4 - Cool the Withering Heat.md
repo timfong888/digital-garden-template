@@ -4,6 +4,10 @@
 
 
 ## problem
+Tensions are so hot, you have become cold roommates.
+
+Or the distrust and arguments are regularly bearing the fruit of resentment and bitterness.
+
 Being a frog in the bot of boiling water is no fun. 
 
 Part of the false belief is that your situation "just happened."
