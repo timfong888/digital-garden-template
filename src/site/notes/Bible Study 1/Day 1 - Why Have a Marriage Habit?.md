@@ -3,7 +3,8 @@
 ---
 
 
-Even with a perfect environment without kids, no commute, no office politics, and great real estate, Adam and Eve messed up their marriage.
+## the problem
+Even with a perfect environment without kids, no commute, no office politics, and great real estate, Adam and Eve **messed up their marriage.**
 
 They took their eyes off of God.
 
@@ -13,15 +14,29 @@ They introduced sin that now runs through the blood of every married couple. On 
 
 So...what do habits have to do with this?
 
-> “Oh how I love your law! It is my meditation all the day. Your commandment makes me wiser than my enemies, for it is ever with me.” ‭‭Psalm‬ ‭119‬:‭97‬-‭98‬ ‭ESV‬‬
+>[!NOTE] Psalm‬ ‭119‬:‭97‬-‭98‬ ‭ESV‬‬
+> “Oh how I love your law! It is my meditation all the day. Your commandment makes me wiser than my enemies, for it is ever with me.” ‭‭
 
-It's become a platitude to say that the best habit is to spend time in God's word.
+## the lie
+It's become a platitude to say that the best habit is to spend quiet time in God's word.
 
-While the statement is true...I feel it's not helpful.
+Or a couple that prays together stays together.
+
+Statements like these are true -- meaning, they are not wrong, you can't ever go wrong following them.
+
+So while true...they aren't the full truth.
+
+## the pain
+To me, unspoken truths, withheld truths, give space for lies, including lies we tell ourselves or assumption put upon by others, to take hold.
+
+The pain from marriage conflict is real.  But most people could avoid it were they to grasp with the truth that, for most marriages, it is not an "if" but a "when."
+
+It's 
 
 I believe every marriage needs a habit of daily marriage devotionals -- devotionals designed to address the realities of marriage, not just verses for us to delight in the presence and knowledge of God.
 
-The Problem: All marriages start as the frog in a pot of cool water...that's sitting on a lit stove.
+## the truth
+All marriages start as the frog in a pot of cool water...that's sitting on a lit stove.
 
 The rest of this series covers the following:
 
