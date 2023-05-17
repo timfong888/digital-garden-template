@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"jesus-as-lord-marriage-devotional","permalink":"/jesus-as-lord-marriage-devotional/","metatags":{"description":"This marriage devotional asks whom do you call Lord?","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"jesus-as-lord-marriage-devotional","permalink":"/jesus-as-lord-marriage-devotional/","metatags":{"description":"This marriage devotional asks whom do you call Lord?","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png"},"created":"","updated":""}
 ---
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png)
 
 
 > [!NOTE] Luke‬ ‭6‬:‭46‬ ‭NKJV‬‬
@@ -42,4 +44,24 @@ Share your respective walks and where you are following and where you are strayi
 - Give the courage and safety to confess if this is not true; and the power to repent
 - Convict is if we cause the other to stumble and if we wander
 - Give us the strength to focus on you as Lord
+
+##### Notes for this Article
+- [x] Publish Outline
+- [ ] Record podcast
+- [ ] [Create podcast](https://studio.podcast.co/login)
+- [ ] Embed podcast
+- [ ] [Get a voice to text transcription](https://happyscribe.com) 
+- [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
+- [x] Generate AI Image (120:63)
+- [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
+- [x] Create WebP Image
+- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [ ] Publish on [Twitter](https://twitter.com)
+- [ ] Add comment thread
+- [ ] Add form lock
+- [ ] Add links to related articles that can be helpful
+- [ ] Create or add to publishing partnership
+
+- [ ] [Create YouTube Video](https://flixier.com)
+- [ ] Optimize SEO
 
