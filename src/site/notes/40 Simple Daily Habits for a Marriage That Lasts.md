@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-simple-daily-habits-for-a-marriage-that-lasts/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"40-habits-marriage-devotional","permalink":"/40-habits-marriage-devotional/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
 ---
 
+---
 ### Welcome
+
 
 ### Start Here
 [[Why Develop a Marriage Habit?\|Why Develop a Marriage Habit?]]
