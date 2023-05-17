@@ -110,9 +110,9 @@ Such is the power of Jesus; and we can have similar power in our own families.
 - [ ] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
 - [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
-- [ ] Generate AI Image (120:63)
+- [x] Generate AI Image (120:63)
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
-- [ ] Create WebP Image
+- [x] Create WebP Image
 - [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [ ] Publish on [Twitter](https://twitter.com)
 - [ ] Add comment thread
