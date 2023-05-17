@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"jesus-as-lord-marriage-devotional","permalink":"/jesus-as-lord-marriage-devotional/","metatags":{"description":"This marriage devotional asks whom do you call Lord?","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png"},"created":"","updated":""}
 ---
 
+{{ dg-updated }}
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png)
 
 
@@ -66,11 +67,11 @@ Share your respective walks and where you are following and where you are strayi
 - [x] Generate AI Image (120:63)
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
 - [x] Create WebP Image
-- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [ ] Publish on [Twitter](https://twitter.com)
 - [ ] Add comment thread
 - [x] Add form lock
-- [ ] Add links to related articles that can be helpful
+- [x] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 
 - [ ] [Create YouTube Video](https://flixier.com)
