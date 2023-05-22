@@ -7,8 +7,11 @@
 
 
 ### Start Here
-[[Why Develop a Marriage Habit?\|Why Develop a Marriage Habit?]]
-
+[[Bible Study 1/Day 1 - Why Have a Marriage Habit?\|Day 1 - Why Have a Marriage Habit?]]
+[[Bible Study 1/Day 2 - A False Peace is No Peace\|Day 2 - A False Peace is No Peace]]
+[[Bible Study 1/Day 3 - Be Spiritually Wise\|Day 3 - Be Spiritually Wise]]
+[[Bible Study 1/Day 4 - Cool the Withering Heat\|Day 4 - Cool the Withering Heat]]
+[[Bible Study 1/Day 5 - Grow in Community\|Day 5 - Grow in Community]]
 
 
 ### What are the 40 Habits?
