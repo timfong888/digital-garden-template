@@ -20,6 +20,13 @@ While this scarcity mentality is a source of marriages breaking, I say the sinfu
 
 It puts a pressure on the marriage by denying God's faithfulness.
 
+> [!WARNING] Unlock the rest of the article
+> If you can't see the rest of the article, unlock by adding your email address.  Receive the short email-based course on how to build a Marriage Habit.
+<div class="convertful-202420"></div>
+<!--- form here -->
+<div class="convertful-202420"></div>
+
+
 Certainly, there can be legitimate times when you are facing economic pressure.  And I can understand the pain in those moments.
 
 But not using this to declare war against your spouse is your only option.
