@@ -62,7 +62,11 @@ Pray that such ingratitude and scarcity be brought to mind.
 
 ## connect
 Use Twitter?  Join or retweet here:
+
 https://twitter.com/marriagehabit/status/1663975409896271872?s=20
+
+
+
 
 Stay tuned for dedicated community to connect with other.
 
