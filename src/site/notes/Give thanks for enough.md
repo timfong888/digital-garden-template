@@ -53,6 +53,13 @@ Are you focusing on your spouse and pushing pressure, versus exploring in gratit
 ## pray
 Pray that such ingratitude and scarcity be brought to mind.
 
+## related content
+- [[Control Your Tongue\|Control Your Tongue]]
+- [[Allow God to Search Your Heart\|Allow God to Search Your Heart]]
+- [[Bring Your Expectations to Light\|Bring Your Expectations to Light]]
+
+
+
 ## connect
 Use Twitter?  Join or retweet here:
 https://twitter.com/marriagehabit/status/1663975409896271872?s=20
@@ -74,7 +81,7 @@ Stay tuned for dedicated community to connect with other.
 - [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
 - [x] Publish on [Twitter](https://twitter.com)
 - [x] Add comment thread
-- [ ] Add form lock
+- [x] Add form lock
 - [ ] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 
