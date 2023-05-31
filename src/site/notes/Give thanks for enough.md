@@ -82,7 +82,7 @@ Stay tuned for dedicated community to connect with other.
 - [x] Publish on [Twitter](https://twitter.com)
 - [x] Add comment thread
 - [x] Add form lock
-- [ ] Add links to related articles that can be helpful
+- [x] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
 
 - [ ] [Create YouTube Video](https://flixier.com)
