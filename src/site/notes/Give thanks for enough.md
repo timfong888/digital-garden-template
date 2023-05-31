@@ -53,6 +53,13 @@ Are you focusing on your spouse and pushing pressure, versus exploring in gratit
 ## pray
 Pray that such ingratitude and scarcity be brought to mind.
 
+## connect
+Use Twitter?  Join or retweet here:
+https://twitter.com/marriagehabit/status/1663975409896271872?s=20
+
+Stay tuned for dedicated community to connect with other.
+
+
 ##### Notes for this Article
 - [x] Publish Outline
 - [ ] Record podcast
@@ -64,9 +71,9 @@ Pray that such ingratitude and scarcity be brought to mind.
 - [x] Generate AI Image (120:63)
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
 - [x] Create WebP Image
-- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
-- [ ] Publish on [Twitter](https://twitter.com)
-- [ ] Add comment thread
+- [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [x] Publish on [Twitter](https://twitter.com)
+- [x] Add comment thread
 - [ ] Add form lock
 - [ ] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
