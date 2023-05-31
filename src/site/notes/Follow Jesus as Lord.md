@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"jesus-as-lord-marriage-devotional","permalink":"/jesus-as-lord-marriage-devotional/","metatags":{"description":"This marriage devotional asks whom do you call Lord?","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"jesus-as-lord-marriage-devotional","permalink":"/jesus-as-lord-marriage-devotional/","metatags":{"description":"This marriage devotional asks whom do you call Lord?","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png"},"created":"","updated":"May 25, 2023"}
 ---
 
-{{ dg-updated }}
+
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684342506/obsidian/image_uyng5f.png)
 
 
