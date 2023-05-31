@@ -29,7 +29,7 @@
 8. [x] [[Hope for the Future\|Hope for the Future]]
 9. [ ] Cast vision
 10. [ ] [[Remember That You Will Die\|Remember That You Will Die]]
-11. [ ] We have enough today
+11. [ ] [[Give thanks for enough\|Give thanks for enough]]
 12. [ ] Plant a seed
 13. [ ] Cleaving from mother and father
 14. [x] [[Check with Wise Counsel\|Check with Wise Counsel]]
@@ -46,7 +46,7 @@
 25. [x] [[Hold a Boundary Conversation\|Hold a Boundary Conversation]]
 26. [ ] Connection rituals
 27. [ ] Love God
-28. [ ] [[Follow Jesus as Lord\|Follow Jesus as Lord]]
+28. [x] [[Follow Jesus as Lord\|Follow Jesus as Lord]]
 29. [ ] Spirit led
 30. [ ] Curiosity Led Knowing
 31. [x] [[Be Their Help Mate\|Be Their Help Mate]]
