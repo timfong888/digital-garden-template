@@ -54,5 +54,6 @@
 33. [ ] Fix Your Eyes on the Prize
 34. [x] [[ Strengthen the Straight Path\| Strengthen the Straight Path]]
 35. [ ] [[Bring Your Expectations to Light\|Bring Your Expectations to Light]]
+36. [ ] [[Live Under God's Order\|Live Under God's Order]]
 
 
