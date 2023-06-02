@@ -64,7 +64,7 @@ Ask for conviction and clarity for where you can align with God's order.  Pray t
 ##### Notes for this Article
 - [x] Publish Outline
 - [x] Generate AI Image (1200:630)
-- [ ] Create WebP Image
+- [x] Create WebP Image
 - [x] Add form lock
 - [ ] Record podcast
 - [ ] [Create podcast](https://studio.podcast.co/login)
