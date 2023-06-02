@@ -62,7 +62,7 @@ Discuss with each other your responses to the questions.
 Ask for conviction and clarity for where you can align with God's order.  Pray that your hearts yearn to align and trust its meaning. Pray for safety and grace to talk about how to align your hearts and actions in a meaningful order.
 
 ## twitter
-https://twitter.com/marriagehabit/status/1664696125063036929?s=20
+[https://twitter.com/marriagehabit/status/1664696125063036929?s=20](https://twitter.com/marriagehabit/status/1664696125063036929?s=20)
 
 
 ##### Notes for this Article
