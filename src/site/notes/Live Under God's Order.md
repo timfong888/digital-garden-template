@@ -61,6 +61,10 @@ Discuss with each other your responses to the questions.
 ## prayer
 Ask for conviction and clarity for where you can align with God's order.  Pray that your hearts yearn to align and trust its meaning. Pray for safety and grace to talk about how to align your hearts and actions in a meaningful order.
 
+## twitter
+https://twitter.com/marriagehabit/status/1664696125063036929?s=20
+
+
 ##### Notes for this Article
 - [x] Publish Outline
 - [x] Generate AI Image (1200:630)
@@ -74,9 +78,9 @@ Ask for conviction and clarity for where you can align with God's order.  Pray t
 - [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
 
-- [ ] Confirm [Opengraph.xyz](https://opengraph.xyz)
-- [ ] Publish on [Twitter](https://twitter.com)
-- [ ] Add comment thread
+- [x] Confirm [Opengraph.xyz](https://opengraph.xyz)
+- [x] Publish on [Twitter](https://twitter.com)
+- [x] Add comment thread
 
 - [ ] Add links to related articles that can be helpful
 - [ ] Create or add to publishing partnership
