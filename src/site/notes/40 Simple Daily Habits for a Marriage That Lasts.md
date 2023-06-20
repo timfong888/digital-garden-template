@@ -31,7 +31,7 @@
 10. [ ] [[Remember That You Will Die\|Remember That You Will Die]]
 11. [ ] [[Give thanks for enough\|Give thanks for enough]]
 12. [ ] Plant a seed
-13. [ ] Cleaving from mother and father
+13. [ ] [[Cleaving from Mother and Father\|Cleaving from Mother and Father]]
 14. [x] [[Check with Wise Counsel\|Check with Wise Counsel]]
 15. [ ] Truth and grace for a better we
 16. [ ] Celebrate change
