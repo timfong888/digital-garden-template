@@ -3,7 +3,8 @@
 ---
 
 
-What does it mean to Cleave from mother and father?
+What does it mean to cleave from mother and father?
+<div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/marriage-habit-cleave-from-parents" src="https://play.pod.co/the-marriage-habit/marriage-habit-cleave-from-parents" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1687287140/obsidian/image_nckowy.png)
 
@@ -85,12 +86,12 @@ Pray for clarity and invite safety so you can share.
 ##### Notes for this Article
 - [x] Publish Outline
 - [x] Generate AI Image (1200:630)
-- [ ] [Create WebP Image](https://pixelied.com)
+- [x] [Create WebP Image](https://pixelied.com)
 - [x] Add form lock
-- [ ] Record podcast
-- [ ] [Create podcast](https://studio.podcast.co/login)
+- [x] Record podcast
+- [x] [Create podcast](https://studio.podcast.co/login)
 - [ ] [Add to acts2 podcast](https://app.bcast.fm/podcasts/1978)
-- [ ] Embed podcast
+- [x] Embed podcast
 - [ ] [Get a voice to text transcription](https://happyscribe.com) 
 - [ ] Check off from the [[40 Simple Daily Habits for a Marriage That Lasts\|40 Simple Daily Habits for a Marriage That Lasts]]
 - [ ] [Add Title to YouTube Thumbnail](https://pixelied.com)
