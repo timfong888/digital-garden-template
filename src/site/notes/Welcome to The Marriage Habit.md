@@ -17,7 +17,7 @@ So if you're interested in material outside of Marriage, be sure to check that o
 
 If YouTube is how you consume content, the same podcast is also broadcast on YouTube:
 
-https://www.youtube.com/@TheMarriageHabit-ji8bl/videos
+[https://www.youtube.com/@TheMarriageHabit-ji8bl/videos](https://www.youtube.com/@TheMarriageHabit-ji8bl/videos)
 
 I am starting to put all 40 habits on a single page (still a work in progress).
 
