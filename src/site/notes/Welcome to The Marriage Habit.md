@@ -3,7 +3,7 @@
 ---
 
 
-**Welcome!**  
+### **Welcome!**  
 
 You'll start receiving emails from me as I walk with you on this journey of building The Marriage Habit.
 
