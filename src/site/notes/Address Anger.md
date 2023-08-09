@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/address-anger/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"andress-anger","permalink":"/andress-anger/","metatags":{"description":"Addressing Anger regularly to stem the tide","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"},"created":"","updated":""}
 ---
+
 
 <div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/address-anger" src="https://play.pod.co/the-marriage-habit/address-anger" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>
 
@@ -174,7 +175,3 @@ Take time in this devotion, especially if you thankfully have not had an anger m
 - [ ] Create or add to publishing partnership
 - [ ] Optimize SEO
 
-
-
-  
-<!-- HTML Meta Tags --> <title>Address Anger</title> <head><meta name="description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <!-- Facebook Meta Tags --> <meta property="og:url" content="https://themarriagehabit.com/address-anger/"> <meta property="og:type" content="website"> <meta property="og:title" content="Address Anger"> <meta property="og:description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <meta property="og:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"> <!-- Twitter Meta Tags --> <meta name="twitter:card" content="summary_large_image"> <meta property="twitter:domain" content="themarriagehabit.com"> <meta property="twitter:url" content="https://themarriagehabit.com/address-anger/"> <meta name="twitter:title" content="Address Anger"> <meta name="twitter:description" content="Why must anger be addressed to save your marriage? We're not saying that no one gets angy. Anger is a valid emotion. The verse asks us to be "slow to anger.""> <meta name="twitter:image" content="https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"> </head><!-- Meta Tags Generated via https://www.opengraph.xyz -->
