@@ -25,10 +25,8 @@ If you have already subscribed, you'll get emails about each one.
 
 If not, make sure that you subscribe below:
 
+[Click here to get to the 40 Marriage Habits.](https://themarriagehabit.com)
 
-Here's how to get to the 40 Marriage Habits.
-
-https://themarriagehabit.com
 
 
 
