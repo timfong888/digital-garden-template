@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"timeline-of-marriage","permalink":"/timeline-of-marriage/","metatags":{"description":"This is a timeline of a marriage under therapy and counseling to illustrate my concerns with the traditional and dominant therapeutical model to hurt, rather than to help, marriages.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/f_auto/v1693419993/obsidian/image_jdzoyf.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"timeline-of-marriage","permalink":"/timeline-of-marriage/","metatags":{"description":"This is a timeline of a marriage under therapy and counseling to illustrate my concerns with the traditional and dominant therapeutical model to hurt, rather than to help, marriages.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/f_auto/v1693419993/obsidian/image_jdzoyf.png"},"created":"2023-08-30T11:19:55.896-07:00"}
 ---
 
 

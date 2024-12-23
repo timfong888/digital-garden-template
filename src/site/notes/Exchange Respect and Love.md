@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"love-and-respect","permalink":"/love-and-respect/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"love-and-respect","permalink":"/love-and-respect/","created":"2023-03-14T20:22:54.777-07:00"}
 ---
 
 

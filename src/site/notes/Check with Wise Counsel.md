@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/check-with-wise-counsel/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/check-with-wise-counsel/","created":"2023-03-14T15:05:51.279-07:00"}
 ---
 
 <div class="podcastdotco-wrapper"><iframe data-target="the-marriage-habit/seek-wise-counsel" src="https://play.pod.co/the-marriage-habit/seek-wise-counsel" frameborder="0" width="100%" scrolling="no" style="overflow:hidden;max-width:750px;height:160px;"class="podcastdotco-player podcastdotco-player--episode"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div>

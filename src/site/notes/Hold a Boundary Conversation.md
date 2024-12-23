@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"marriage-boundaries","permalink":"/marriage-boundaries/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marriage-boundaries","permalink":"/marriage-boundaries/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2023-04-14T21:27:50.351-07:00"}
 ---
 
 

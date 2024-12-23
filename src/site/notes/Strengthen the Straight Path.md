@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/strengthen-the-straight-path/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/strengthen-the-straight-path/","created":"2023-03-14T13:23:39.680-07:00"}
 ---
 
 

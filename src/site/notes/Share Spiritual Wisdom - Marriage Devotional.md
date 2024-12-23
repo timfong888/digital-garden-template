@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/share-spiritual-wisdom-marriage-devotional/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/share-spiritual-wisdom-marriage-devotional/","created":"2023-04-11T18:50:11.872-07:00"}
 ---
 
 

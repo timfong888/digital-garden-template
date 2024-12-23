@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-1/why-do-you-need-a-marriage-habit/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-study-1/why-do-you-need-a-marriage-habit/","created":"2023-04-15T18:05:32.562-07:00"}
 ---
 
 ![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681762078/obsidian/image_wcy8hk.png)

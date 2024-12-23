@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"40-habits-marriage-devotional","permalink":"/40-habits-marriage-devotional/","metatags":{"description":"Don't let your marriage troubles surprise you.  Start now with 40 simple daily habits for a marriage that lasts","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684775443/obsidian/image_c48wsk.png"},"tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"40-habits-marriage-devotional","permalink":"/40-habits-marriage-devotional/","metatags":{"description":"Don't let your marriage troubles surprise you.  Start now with 40 simple daily habits for a marriage that lasts","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1684775443/obsidian/image_c48wsk.png"},"tags":["gardenEntry"],"created":"2023-03-14T10:00:22.000-07:00"}
 ---
 
 ---

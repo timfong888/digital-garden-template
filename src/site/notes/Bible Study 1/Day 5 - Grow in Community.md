@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"grow-in-community-marital-devotional","permalink":"/grow-in-community-marital-devotional/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"grow-in-community-marital-devotional","permalink":"/grow-in-community-marital-devotional/","metatags":{"description":"some description","og:image":"https://example.com/someimage.png"},"created":"2023-04-05T20:10:13.594-07:00"}
 ---
 
 

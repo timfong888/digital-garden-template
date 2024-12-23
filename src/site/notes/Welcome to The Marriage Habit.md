@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"welcome-after-opt-in","permalink":"/welcome-after-opt-in/","metatags":{"description":"This is the welcome page for The Marriage Habit after you opt-in to the newsletter","og:image":"https://example.com/someimage.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"welcome-after-opt-in","permalink":"/welcome-after-opt-in/","metatags":{"description":"This is the welcome page for The Marriage Habit after you opt-in to the newsletter","og:image":"https://example.com/someimage.png"},"created":"2023-08-09T08:54:28.786-07:00"}
 ---
 
 

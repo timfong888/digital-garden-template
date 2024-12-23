@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"marriage-means-cleaving-from-mother-and-father","permalink":"/marriage-means-cleaving-from-mother-and-father/","metatags":{"description":"Some marriages hurt because one or both spouses don't leave their parents in a healthy way","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1687287140/obsidian/image_nckowy.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marriage-means-cleaving-from-mother-and-father","permalink":"/marriage-means-cleaving-from-mother-and-father/","metatags":{"description":"Some marriages hurt because one or both spouses don't leave their parents in a healthy way","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1687287140/obsidian/image_nckowy.png"},"created":"2023-06-20T11:21:14.746-07:00"}
 ---
 
 

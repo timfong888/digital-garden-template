@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"marriage-devotional-day-4","permalink":"/marriage-devotional-day-4/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marriage-devotional-day-4","permalink":"/marriage-devotional-day-4/","created":"2023-05-04T07:14:17.291-07:00"}
 ---
 
 

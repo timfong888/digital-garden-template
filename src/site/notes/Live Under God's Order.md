@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"marriage-devotional-gods-order","permalink":"/marriage-devotional-gods-order/","metatags":{"description":"It's easy for a marriage to fall of out God's order.  Realign yourself now.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1685729208/obsidian/image_ty3ovc.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marriage-devotional-gods-order","permalink":"/marriage-devotional-gods-order/","metatags":{"description":"It's easy for a marriage to fall of out God's order.  Realign yourself now.","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1685729208/obsidian/image_ty3ovc.png"},"created":"2023-06-02T09:34:24.302-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"marital-devotional-spiritually-wise","permalink":"/marital-devotional-spiritually-wise/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"marital-devotional-spiritually-wise","permalink":"/marital-devotional-spiritually-wise/","created":"2023-05-03T07:50:23.852-07:00"}
 ---
 
 

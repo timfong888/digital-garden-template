@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"andress-anger","permalink":"/andress-anger/","metatags":{"description":"Addressing Anger regularly to stem the tide","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"andress-anger","permalink":"/andress-anger/","metatags":{"description":"Addressing Anger regularly to stem the tide","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680119334/obsidian/image_idnrmi.png"},"created":"2023-03-14T21:14:31.365-07:00"}
 ---
 
 

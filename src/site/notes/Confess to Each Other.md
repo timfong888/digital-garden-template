@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/confess-to-each-other/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/confess-to-each-other/","created":"2023-04-20T21:13:33.986-07:00"}
 ---
 
 > [!NOTE] ‭‭James‬ ‭5‬:‭16‬ ‭NKJV‬‬

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mynote","permalink":"/mynote/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"mynote","permalink":"/mynote/","created":"2023-03-14T14:03:56.006-07:00"}
 ---
 
 

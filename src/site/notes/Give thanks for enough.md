@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"give-thanks-for-enough","permalink":"/give-thanks-for-enough/","metatags":{"description":"God provides but missing His provision brings conflict","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1685557093/obsidian/image_fofloi.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"give-thanks-for-enough","permalink":"/give-thanks-for-enough/","metatags":{"description":"God provides but missing His provision brings conflict","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1685557093/obsidian/image_fofloi.png"},"created":"2023-05-31T10:56:55.038-07:00"}
 ---
 
 

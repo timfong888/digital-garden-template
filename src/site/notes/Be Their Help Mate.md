@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"be-their-help-made-marriage-devotional","permalink":"/be-their-help-made-marriage-devotional/","metatags":{"description":"A simple habit of helping one another can save your marriage","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681150312/obsidian/image_zexbsw.png"},"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"be-their-help-made-marriage-devotional","permalink":"/be-their-help-made-marriage-devotional/","metatags":{"description":"A simple habit of helping one another can save your marriage","og:image":"https://res.cloudinary.com/dt9hlo5sw/image/upload/v1681150312/obsidian/image_zexbsw.png"},"created":"2023-04-08T17:39:47.414-07:00"}
 ---
 
 
