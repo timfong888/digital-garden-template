@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-1/day-1-why-have-a-marriage-habit/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-study-1/day-1-why-have-a-marriage-habit/","created":"2023-04-24T13:03:48.353-07:00"}
 ---
 
-
+![freepik__a-serene-morning-scene-with-an-open-bible-a-journa__62814.jpeg](/img/user/freepik__a-serene-morning-scene-with-an-open-bible-a-journa__62814.jpeg)
 ## the problem
 Even with a perfect environment without kids, no commute, no office politics, and great real estate, Adam and Eve **messed up their marriage.**
 
