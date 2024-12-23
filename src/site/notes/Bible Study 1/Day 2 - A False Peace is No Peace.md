@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/bible-study-1/day-2-a-false-peace-is-no-peace/","created":"2023-04-16T21:11:46.215-07:00"}
 ---
 
+![freepik__two-hands-reaching-across-a-divide-with-bandages-l__62816.png](/img/user/freepik__two-hands-reaching-across-a-divide-with-bandages-l__62816.png)
 
 ## problem
 When we encounter a marital problem, we often don't know how to address it!
